@@ -30,6 +30,7 @@ print("BASE_DIR", BASE_DIR)
 # SECRET_KEY = 'django-insecure-ucn*4#1nk*es8wq7lns+a!_)f@u_yb2-=tlg391myo=xn-lenq'
 SECRET_KEY = os.getenv("SECRET_KEY")
 
+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
