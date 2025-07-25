@@ -1,0 +1,21 @@
+#change
+image: docker:latest
+
+services:
+  - docker:dind
+
+variables:
+  DOCKER_DRIVER: overlay2
+
+stages:
+  - build
+
+build_backend_image:
+  stage: build
+  script:
+    - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
+    - docker build -t "$DOCKER_USERNAME/smm_backend:latest" .
+    - docker push "$DOCKER_USERNAME/smm_backend:latest"
+  only:
+    - main
+    - ci-cd

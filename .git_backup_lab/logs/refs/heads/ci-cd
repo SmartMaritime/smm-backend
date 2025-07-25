@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 280ac1ae88d92f3b8a271d0985f65191d4c1cf21 mkha <m_kha@hotmail.fr> 1753183398 +0200	branch: Created from dev
+280ac1ae88d92f3b8a271d0985f65191d4c1cf21 a670867be5b8a2084eceb0aa4eb4ab70f5b54afa mkha <m_kha@hotmail.fr> 1753183430 +0200	commit: Setup initial pipeline CI/CD
+a670867be5b8a2084eceb0aa4eb4ab70f5b54afa bc51e9808bcd0f8f9de5a58d859aa21d0b453f88 mkha <m_kha@hotmail.fr> 1753185295 +0200	commit: Setup initial pipeline CI/CD v1.1
+bc51e9808bcd0f8f9de5a58d859aa21d0b453f88 53f734d0ecf4735343810a9e295ff9c9ed5953da mkha <m_kha@hotmail.fr> 1753189901 +0200	commit: Setup initial pipeline CI/CD v1.2
