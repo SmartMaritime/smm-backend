@@ -1,0 +1,5138 @@
+[
+  {
+    "name": "Abu Dhabi",
+    "locode": "AEAUH",
+    "longitude": 54.36666666666667,
+    "latitude": 24.466666666666665
+  },
+  {
+    "name": "Ar Ruways",
+    "locode": "AERUW",
+    "longitude": 52.733333333333334,
+    "latitude": 24.116666666666667
+  },
+  {
+    "name": "Khor al Fakkan",
+    "locode": "AEKLF",
+    "longitude": 56.35,
+    "latitude": 25.333333333333332
+  },
+  {
+    "name": "Mina Khalid",
+    "locode": "AEMKH",
+    "longitude": 55.36666666666667,
+    "latitude": 25.35
+  },
+  {
+    "name": "Mina Khalifa/Abu Dhabi",
+    "locode": "AEKHL",
+    "longitude": 54.666666666666664,
+    "latitude": 24.833333333333332
+  },
+  {
+    "name": "Umm al Qaiwain",
+    "locode": "AEQIW",
+    "longitude": 55.55,
+    "latitude": 25.566666666666666
+  },
+  {
+    "name": "Saint John's",
+    "locode": "AGSJO",
+    "longitude": -61.85,
+    "latitude": 17.116666666666667
+  },
+  {
+    "name": "Bah\ufffda Blanca",
+    "locode": "ARBHI",
+    "longitude": -62.28333333333333,
+    "latitude": -38.71666666666667
+  },
+  {
+    "name": "Buenos Aires",
+    "locode": "ARBUE",
+    "longitude": -58.666666666666664,
+    "latitude": -34.583333333333336
+  },
+  {
+    "name": "Mar del Plata",
+    "locode": "ARMDQ",
+    "longitude": -57.53333333333333,
+    "latitude": -38.05
+  },
+  {
+    "name": "Puerto Deseado",
+    "locode": "ARPUD",
+    "longitude": -65.9,
+    "latitude": -47.75
+  },
+  {
+    "name": "Puerto Madryn",
+    "locode": "ARPMY",
+    "longitude": -65.03333333333333,
+    "latitude": -42.75
+  },
+  {
+    "name": "Rosario",
+    "locode": "ARROS",
+    "longitude": -60.65,
+    "latitude": -32.95
+  },
+  {
+    "name": "San Antonio Este",
+    "locode": "ARSAE",
+    "longitude": -64.73333333333333,
+    "latitude": -40.8
+  },
+  {
+    "name": "Ushuaia",
+    "locode": "ARUSH",
+    "longitude": -68.3,
+    "latitude": -54.8
+  },
+  {
+    "name": "Z\ufffdrate",
+    "locode": "ARZAE",
+    "longitude": -59.03333333333333,
+    "latitude": -34.1
+  },
+  {
+    "name": "Pago Pago",
+    "locode": "ASPPG",
+    "longitude": -170.7,
+    "latitude": 14.266666666666667
+  },
+  {
+    "name": "Adelaide",
+    "locode": "AUADL",
+    "longitude": 138.58333333333334,
+    "latitude": -34.916666666666664
+  },
+  {
+    "name": "Brisbane",
+    "locode": "AUBNE",
+    "longitude": 153.01666666666668,
+    "latitude": -27.466666666666665
+  },
+  {
+    "name": "Darwin",
+    "locode": "AUDRW",
+    "longitude": 130.83333333333334,
+    "latitude": -12.45
+  },
+  {
+    "name": "Melbourne",
+    "locode": "AUMEL",
+    "longitude": 144.96666666666667,
+    "latitude": -37.81666666666667
+  },
+  {
+    "name": "Sydney",
+    "locode": "AUSYD",
+    "longitude": 151.2,
+    "latitude": -33.85
+  },
+  {
+    "name": "Barcadera",
+    "locode": "AWBAR",
+    "longitude": -69.98333333333333,
+    "latitude": 12.483333333333333
+  },
+  {
+    "name": "Chattogram",
+    "locode": "BDCGP",
+    "longitude": 91.83333333333333,
+    "latitude": 22.333333333333332
+  },
+  {
+    "name": "Antwerpen",
+    "locode": "BEANR",
+    "longitude": 4.416666666666667,
+    "latitude": 51.21666666666667
+  },
+  {
+    "name": "Gent (Ghent)",
+    "locode": "BEGNE",
+    "longitude": 3.716666666666667,
+    "latitude": 51.05
+  },
+  {
+    "name": "Zeebrugge",
+    "locode": "BEZEE",
+    "longitude": 3.2,
+    "latitude": 51.333333333333336
+  },
+  {
+    "name": "Mina Sulman Port",
+    "locode": "BHMIN",
+    "longitude": 50.61666666666667,
+    "latitude": 26.2
+  },
+  {
+    "name": "Kralendijk",
+    "locode": "BQKRA",
+    "longitude": -68.26666666666667,
+    "latitude": 12.15
+  },
+  {
+    "name": "Itagua\ufffd",
+    "locode": "BRIGI",
+    "longitude": -43.766666666666666,
+    "latitude": -22.866666666666667
+  },
+  {
+    "name": "Itapo\ufffd",
+    "locode": "BRIOA",
+    "longitude": -48.6,
+    "latitude": -26.116666666666667
+  },
+  {
+    "name": "Navegantes",
+    "locode": "BRNVT",
+    "longitude": -48.65,
+    "latitude": -26.9
+  },
+  {
+    "name": "Paranagu\ufffd",
+    "locode": "BRPNG",
+    "longitude": -48.5,
+    "latitude": -25.516666666666666
+  },
+  {
+    "name": "Pec\ufffdm Pt/S\ufffdo Gon\ufffdalo do Amarante",
+    "locode": "BRPEC",
+    "longitude": -38.86666666666667,
+    "latitude": -3.533333333333333
+  },
+  {
+    "name": "Rio de Janeiro",
+    "locode": "BRRIO",
+    "longitude": -43.233333333333334,
+    "latitude": -22.883333333333333
+  },
+  {
+    "name": "Santana Pt./Macap\ufffd",
+    "locode": "BRMCP",
+    "longitude": -51.166666666666664,
+    "latitude": -0.05
+  },
+  {
+    "name": "Santos",
+    "locode": "BRSSZ",
+    "longitude": -46.333333333333336,
+    "latitude": -23.95
+  },
+  {
+    "name": "S\ufffdo Lu\ufffds",
+    "locode": "BRSLZ",
+    "longitude": -44.3,
+    "latitude": -2.5
+  },
+  {
+    "name": "Vit\ufffdria Pt",
+    "locode": "BRVIX",
+    "longitude": -40.333333333333336,
+    "latitude": -20.316666666666666
+  },
+  {
+    "name": "Nassau",
+    "locode": "BSNAS",
+    "longitude": -77.35,
+    "latitude": 25.083333333333332
+  },
+  {
+    "name": "Big Creek",
+    "locode": "BZBGK",
+    "longitude": -88.4,
+    "latitude": 16.516666666666666
+  },
+  {
+    "name": "Argentia",
+    "locode": "CANWP",
+    "longitude": -54.0,
+    "latitude": 47.3
+  },
+  {
+    "name": "Saint-John",
+    "locode": "CASJB",
+    "longitude": -66.06666666666666,
+    "latitude": 45.266666666666666
+  },
+  {
+    "name": "Saint-John's",
+    "locode": "CASJF",
+    "longitude": -52.733333333333334,
+    "latitude": 47.56666666666667
+  },
+  {
+    "name": "Banana",
+    "locode": "CDBNW",
+    "longitude": 12.40121189273204,
+    "latitude": -6.003633266930797
+  },
+  {
+    "name": "Pointe Noire",
+    "locode": "CGPNR",
+    "longitude": 11.85,
+    "latitude": -4.8
+  },
+  {
+    "name": "Abidjan",
+    "locode": "CIABJ",
+    "longitude": -4.016666666666667,
+    "latitude": 5.333333333333333
+  },
+  {
+    "name": "San-P\ufffddro",
+    "locode": "CISPY",
+    "longitude": -6.616666666666667,
+    "latitude": 4.733333333333333
+  },
+  {
+    "name": "Antofagasta",
+    "locode": "CLANF",
+    "longitude": -70.38333333333334,
+    "latitude": -23.633333333333333
+  },
+  {
+    "name": "Arica",
+    "locode": "CLARI",
+    "longitude": -70.31666666666666,
+    "latitude": -18.483333333333334
+  },
+  {
+    "name": "Coronel",
+    "locode": "CLCNL",
+    "longitude": -73.15,
+    "latitude": -37.016666666666666
+  },
+  {
+    "name": "Iquique",
+    "locode": "CLIQQ",
+    "longitude": -70.13333333333334,
+    "latitude": -20.216666666666665
+  },
+  {
+    "name": "Lirqu\ufffdn",
+    "locode": "CLLQN",
+    "longitude": -72.98333333333333,
+    "latitude": -36.7
+  },
+  {
+    "name": "Mejillones",
+    "locode": "CLMJS",
+    "longitude": -70.45,
+    "latitude": -23.1
+  },
+  {
+    "name": "Puerto Angamos",
+    "locode": "CLPAG",
+    "longitude": -70.45,
+    "latitude": -23.083333333333332
+  },
+  {
+    "name": "Punta Arenas",
+    "locode": "CLPUQ",
+    "longitude": -70.93333333333334,
+    "latitude": -53.13333333333333
+  },
+  {
+    "name": "San Antonio",
+    "locode": "CLSAI",
+    "longitude": -71.6,
+    "latitude": -33.6
+  },
+  {
+    "name": "San Vicente",
+    "locode": "CLSVE",
+    "longitude": -73.13333333333334,
+    "latitude": -36.7
+  },
+  {
+    "name": "Valparaiso",
+    "locode": "CLVAP",
+    "longitude": -71.63333333333334,
+    "latitude": -33.03333333333333
+  },
+  {
+    "name": "Caofeidian Pt",
+    "locode": "CNCFD",
+    "longitude": 118.53333333333333,
+    "latitude": 38.95
+  },
+  {
+    "name": "DA CHAN BAY",
+    "locode": "CNDCB",
+    "longitude": 113.86666666666666,
+    "latitude": 22.533333333333335
+  },
+  {
+    "name": "Dongguan Pt",
+    "locode": "CNDGG",
+    "longitude": 113.75,
+    "latitude": 23.033333333333335
+  },
+  {
+    "name": "Dongjiangkou",
+    "locode": "CNDJK",
+    "longitude": 119.52253982618285,
+    "latitude": 35.30888533158225
+  },
+  {
+    "name": "Fuqing",
+    "locode": "CNFQG",
+    "longitude": 119.36666666666666,
+    "latitude": 25.716666666666665
+  },
+  {
+    "name": "Huizhou Pt",
+    "locode": "CNHUI",
+    "longitude": 114.36666666666666,
+    "latitude": 23.083333333333332
+  },
+  {
+    "name": "Humen Pt",
+    "locode": "CNHMN",
+    "longitude": 113.66666666666667,
+    "latitude": 22.833333333333332
+  },
+  {
+    "name": "Jiangyin",
+    "locode": "CNJGY",
+    "longitude": 119.3,
+    "latitude": 25.466666666666665
+  },
+  {
+    "name": "Jinzhou Pt",
+    "locode": "CNJNZ",
+    "longitude": 121.15,
+    "latitude": 41.11666666666667
+  },
+  {
+    "name": "Lianyungang",
+    "locode": "CNLYG",
+    "longitude": 119.43333333333334,
+    "latitude": 34.71666666666667
+  },
+  {
+    "name": "Nansha Pt",
+    "locode": "CNNSA",
+    "longitude": 113.58333333333333,
+    "latitude": 22.75
+  },
+  {
+    "name": "Nantong Pt",
+    "locode": "CNNTG",
+    "longitude": 120.85,
+    "latitude": 32.016666666666666
+  },
+  {
+    "name": "Qinhuangdao Pt",
+    "locode": "CNSHP",
+    "longitude": 119.58333333333333,
+    "latitude": 39.916666666666664
+  },
+  {
+    "name": "Quanzhou Pt",
+    "locode": "CNQZJ",
+    "longitude": 118.6,
+    "latitude": 24.933333333333334
+  },
+  {
+    "name": "Rizhao Pt",
+    "locode": "CNRZH",
+    "longitude": 119.53333333333333,
+    "latitude": 35.38333333333333
+  },
+  {
+    "name": "Shekou Pt",
+    "locode": "CNSHK",
+    "longitude": 113.91666666666667,
+    "latitude": 22.483333333333334
+  },
+  {
+    "name": "Shidao Pt",
+    "locode": "CNSHD",
+    "longitude": 122.43333333333334,
+    "latitude": 36.86666666666667
+  },
+  {
+    "name": "Waihai",
+    "locode": "CNWIH",
+    "longitude": 113.13333333333334,
+    "latitude": 22.583333333333332
+  },
+  {
+    "name": "Weifang Pt",
+    "locode": "CNWEF",
+    "longitude": 119.1,
+    "latitude": 36.71666666666667
+  },
+  {
+    "name": "Weihai",
+    "locode": "CNWEI",
+    "longitude": 122.11666666666666,
+    "latitude": 37.516666666666666
+  },
+  {
+    "name": "Yangpu Pt",
+    "locode": "CNYPG",
+    "longitude": 109.2,
+    "latitude": 19.7
+  },
+  {
+    "name": "Yantian Pt",
+    "locode": "CNYTN",
+    "longitude": 119.86666666666666,
+    "latitude": 26.85
+  },
+  {
+    "name": "Yingkou Pt",
+    "locode": "CNYIK",
+    "longitude": 122.21666666666667,
+    "latitude": 40.65
+  },
+  {
+    "name": "Zhangjiagang",
+    "locode": "CNZJG",
+    "longitude": 120.53333333333333,
+    "latitude": 31.866666666666667
+  },
+  {
+    "name": "Zhangzhou Pt",
+    "locode": "CNZZU",
+    "longitude": 117.65,
+    "latitude": 24.516666666666666
+  },
+  {
+    "name": "Zhuhai Pt",
+    "locode": "CNZUH",
+    "longitude": 113.56666666666666,
+    "latitude": 22.283333333333335
+  },
+  {
+    "name": "Leticia",
+    "locode": "COLET",
+    "longitude": -69.93333333333334,
+    "latitude": -4.216666666666667
+  },
+  {
+    "name": "Tol\ufffd",
+    "locode": "COTLU",
+    "longitude": -75.58333333333333,
+    "latitude": 9.533333333333333
+  },
+  {
+    "name": "Turbo",
+    "locode": "COTRB",
+    "longitude": -76.71666666666667,
+    "latitude": 8.083333333333334
+  },
+  {
+    "name": "Caldera",
+    "locode": "CRCAL",
+    "longitude": -84.71666666666667,
+    "latitude": 9.95
+  },
+  {
+    "name": "Mo\ufffdn",
+    "locode": "CRMOB",
+    "longitude": -83.08333333333333,
+    "latitude": 10.0
+  },
+  {
+    "name": "Puerto Lim\ufffdn",
+    "locode": "CRLIO",
+    "longitude": -83.03333333333333,
+    "latitude": 10.0
+  },
+  {
+    "name": "Mariel",
+    "locode": "CUMAR",
+    "longitude": -82.75,
+    "latitude": 23.0
+  },
+  {
+    "name": "Mindelo",
+    "locode": "CVMIN",
+    "longitude": -25.0,
+    "latitude": 16.883333333333333
+  },
+  {
+    "name": "Willemstad",
+    "locode": "CWWIL",
+    "longitude": -68.91666666666667,
+    "latitude": 12.1
+  },
+  {
+    "name": "Flying Fish Cove",
+    "locode": "CXFFC",
+    "longitude": 105.71666666666667,
+    "latitude": -10.416666666666666
+  },
+  {
+    "name": "Limassol",
+    "locode": "CYLMS",
+    "longitude": 33.05,
+    "latitude": 34.68333333333333
+  },
+  {
+    "name": "Brake",
+    "locode": "DEBKE",
+    "longitude": 8.483333333333333,
+    "latitude": 53.333333333333336
+  },
+  {
+    "name": "Cuxhaven",
+    "locode": "DECUX",
+    "longitude": 8.7,
+    "latitude": 53.88333333333333
+  },
+  {
+    "name": "Emden",
+    "locode": "DEEME",
+    "longitude": 7.216666666666667,
+    "latitude": 53.36666666666667
+  },
+  {
+    "name": "Kiel",
+    "locode": "DEKEL",
+    "longitude": 10.133333333333333,
+    "latitude": 54.333333333333336
+  },
+  {
+    "name": "Rostock",
+    "locode": "DERSK",
+    "longitude": 12.133333333333333,
+    "latitude": 54.083333333333336
+  },
+  {
+    "name": "Wilhelmshaven",
+    "locode": "DEWVN",
+    "longitude": 8.133333333333333,
+    "latitude": 53.516666666666666
+  },
+  {
+    "name": "Aarhus",
+    "locode": "DKAAR",
+    "longitude": 10.216666666666667,
+    "latitude": 56.15
+  },
+  {
+    "name": "K\ufffdbenhavn",
+    "locode": "DKCPH",
+    "longitude": 12.583333333333334,
+    "latitude": 55.666666666666664
+  },
+  {
+    "name": "Caucedo",
+    "locode": "DOCAU",
+    "longitude": -69.63333333333334,
+    "latitude": 18.416666666666668
+  },
+  {
+    "name": "Manzanillo",
+    "locode": "DOMAN",
+    "longitude": -71.75,
+    "latitude": 19.7
+  },
+  {
+    "name": "Alger (Algiers)",
+    "locode": "DZALG",
+    "longitude": 3.05,
+    "latitude": 36.75
+  },
+  {
+    "name": "Arzew",
+    "locode": "DZAZW",
+    "longitude": -0.316666666666667,
+    "latitude": 35.86666666666667
+  },
+  {
+    "name": "Ghazaouet",
+    "locode": "DZGHZ",
+    "longitude": -1.85,
+    "latitude": 35.1
+  },
+  {
+    "name": "Esmeraldas",
+    "locode": "ECESM",
+    "longitude": -79.7,
+    "latitude": 0.983333333333333
+  },
+  {
+    "name": "Guayaquil",
+    "locode": "ECGYE",
+    "longitude": -79.9,
+    "latitude": -2.166666666666667
+  },
+  {
+    "name": "Posorja",
+    "locode": "ECPSJ",
+    "longitude": -80.25,
+    "latitude": -2.7
+  },
+  {
+    "name": "Puerto Bol\ufffdvar",
+    "locode": "ECPBO",
+    "longitude": -79.98333333333333,
+    "latitude": -3.266666666666667
+  },
+  {
+    "name": "Kunda",
+    "locode": "EEKND",
+    "longitude": 26.533333333333335,
+    "latitude": 59.516666666666666
+  },
+  {
+    "name": "Muuga",
+    "locode": "EEMUG",
+    "longitude": 24.966666666666665,
+    "latitude": 59.5
+  },
+  {
+    "name": "Paldiski",
+    "locode": "EEPLA",
+    "longitude": 24.05,
+    "latitude": 59.35
+  },
+  {
+    "name": "Tallinn",
+    "locode": "EETLL",
+    "longitude": 24.733333333333334,
+    "latitude": 59.43333333333333
+  },
+  {
+    "name": "Dumyat (Damietta)",
+    "locode": "EGDAM",
+    "longitude": 31.816666666666666,
+    "latitude": 31.416666666666668
+  },
+  {
+    "name": "El Iskandariya (Alexandria)",
+    "locode": "EGALY",
+    "longitude": 29.916666666666668,
+    "latitude": 31.183333333333334
+  },
+  {
+    "name": "Sokhna Port",
+    "locode": "EGSOK",
+    "longitude": 32.35,
+    "latitude": 29.65
+  },
+  {
+    "name": "Massawa (Mitsiwa)",
+    "locode": "ERMSW",
+    "longitude": 39.45,
+    "latitude": 15.6
+  },
+  {
+    "name": "Almer\ufffda",
+    "locode": "ESLEI",
+    "longitude": -2.45,
+    "latitude": 36.833333333333336
+  },
+  {
+    "name": "Bilbao",
+    "locode": "ESBIO",
+    "longitude": -2.966666666666667,
+    "latitude": 43.25
+  },
+  {
+    "name": "Cartagena",
+    "locode": "ESCAR",
+    "longitude": -0.983333333333333,
+    "latitude": 37.6
+  },
+  {
+    "name": "Castell\ufffdn de la Plana",
+    "locode": "ESCAS",
+    "longitude": -0.033333333333333,
+    "latitude": 39.983333333333334
+  },
+  {
+    "name": "Ferrol",
+    "locode": "ESFRO",
+    "longitude": -8.25,
+    "latitude": 43.483333333333334
+  },
+  {
+    "name": "Gij\ufffdn",
+    "locode": "ESGIJ",
+    "longitude": -5.666666666666667,
+    "latitude": 43.53333333333333
+  },
+  {
+    "name": "Lanzarote",
+    "locode": "ESACE",
+    "longitude": -13.533333333333333,
+    "latitude": 28.966666666666665
+  },
+  {
+    "name": "Las Palmas de Gran Canaria",
+    "locode": "ESLPA",
+    "longitude": -15.416666666666666,
+    "latitude": 28.1
+  },
+  {
+    "name": "M\ufffdlaga",
+    "locode": "ESAGP",
+    "longitude": -4.416666666666667,
+    "latitude": 36.71666666666667
+  },
+  {
+    "name": "Melilla",
+    "locode": "ESMLN",
+    "longitude": -2.883333333333333,
+    "latitude": 35.31666666666667
+  },
+  {
+    "name": "Sagunto",
+    "locode": "ESSAG",
+    "longitude": -0.266666666666667,
+    "latitude": 39.68333333333333
+  },
+  {
+    "name": "Santa Cruz de La Palma",
+    "locode": "ESSPC",
+    "longitude": -17.766666666666666,
+    "latitude": 28.683333333333334
+  },
+  {
+    "name": "Villagarc\ufffda de Arosa",
+    "locode": "ESVIL",
+    "longitude": -8.75,
+    "latitude": 42.6
+  },
+  {
+    "name": "\ufffdbo (Turku)",
+    "locode": "FITKU",
+    "longitude": 22.283333333333335,
+    "latitude": 60.45
+  },
+  {
+    "name": "Turku (\ufffdbo)",
+    "locode": "FITKU",
+    "longitude": 22.283333333333335,
+    "latitude": 60.45
+  },
+  {
+    "name": "Bj\ufffdrneborg (Pori)",
+    "locode": "FIPOR",
+    "longitude": 21.8,
+    "latitude": 61.483333333333334
+  },
+  {
+    "name": "Pori (Bj\ufffdrneborg)",
+    "locode": "FIPOR",
+    "longitude": 21.8,
+    "latitude": 61.483333333333334
+  },
+  {
+    "name": "Fredrikshamn (Hamina)",
+    "locode": "FIHMN",
+    "longitude": 27.2,
+    "latitude": 60.56666666666667
+  },
+  {
+    "name": "Hamina (Fredrikshamn)",
+    "locode": "FIHMN",
+    "longitude": 27.2,
+    "latitude": 60.56666666666667
+  },
+  {
+    "name": "Jakobstad (Pietarsaari)",
+    "locode": "FIPRS",
+    "longitude": 22.783333333333335,
+    "latitude": 63.68333333333333
+  },
+  {
+    "name": "Pietarsaari (Jakobstad)",
+    "locode": "FIPRS",
+    "longitude": 22.783333333333335,
+    "latitude": 63.68333333333333
+  },
+  {
+    "name": "Karleby (Kokkola)",
+    "locode": "FIKOK",
+    "longitude": 23.116666666666667,
+    "latitude": 63.833333333333336
+  },
+  {
+    "name": "Kokkola (Karleby)",
+    "locode": "FIKOK",
+    "longitude": 23.116666666666667,
+    "latitude": 63.833333333333336
+  },
+  {
+    "name": "Kemi/Torne\ufffd (Kemi/Tornio)",
+    "locode": "FIKEM",
+    "longitude": 24.566666666666666,
+    "latitude": 65.73333333333333
+  },
+  {
+    "name": "Kemi/Tornio (Kemi/Torne\ufffd)",
+    "locode": "FIKEM",
+    "longitude": 24.566666666666666,
+    "latitude": 65.73333333333333
+  },
+  {
+    "name": "Kotka",
+    "locode": "FIKTK",
+    "longitude": 26.916666666666668,
+    "latitude": 60.46666666666667
+  },
+  {
+    "name": "Rauma (Raumo)",
+    "locode": "FIRAU",
+    "longitude": 21.5,
+    "latitude": 61.13333333333333
+  },
+  {
+    "name": "Raumo (Rauma)",
+    "locode": "FIRAU",
+    "longitude": 21.5,
+    "latitude": 61.13333333333333
+  },
+  {
+    "name": "Torne\ufffd (Tornio)",
+    "locode": "FITOR",
+    "longitude": 24.183333333333334,
+    "latitude": 65.85
+  },
+  {
+    "name": "Tornio (Torne\ufffd)",
+    "locode": "FITOR",
+    "longitude": 24.183333333333334,
+    "latitude": 65.85
+  },
+  {
+    "name": "Lautoka",
+    "locode": "FJLTK",
+    "longitude": 177.45,
+    "latitude": -17.616666666666667
+  },
+  {
+    "name": "Suva",
+    "locode": "FJSUV",
+    "longitude": 178.45,
+    "latitude": -18.133333333333333
+  },
+  {
+    "name": "Kollafj\ufffdrdur",
+    "locode": "FOKOL",
+    "longitude": -6.883333333333333,
+    "latitude": 62.11666666666667
+  },
+  {
+    "name": "Thorshavn",
+    "locode": "FOTHO",
+    "longitude": -6.766666666666667,
+    "latitude": 62.016666666666666
+  },
+  {
+    "name": "Bassens",
+    "locode": "FRBAS",
+    "longitude": -0.516666666666667,
+    "latitude": 44.9
+  },
+  {
+    "name": "Brest",
+    "locode": "FRBES",
+    "longitude": -4.483333333333333,
+    "latitude": 48.4
+  },
+  {
+    "name": "Dunkerque",
+    "locode": "FRDKK",
+    "longitude": 2.383333333333333,
+    "latitude": 51.03333333333333
+  },
+  {
+    "name": "Fos-sur-Mer",
+    "locode": "FRFOS",
+    "longitude": 4.933333333333334,
+    "latitude": 43.43333333333333
+  },
+  {
+    "name": "la Pallice",
+    "locode": "FRLPE",
+    "longitude": -1.216666666666667,
+    "latitude": 46.166666666666664
+  },
+  {
+    "name": "La Rochelle",
+    "locode": "FRLRH",
+    "longitude": -1.15,
+    "latitude": 46.166666666666664
+  },
+  {
+    "name": "Le Havre",
+    "locode": "FRLEH",
+    "longitude": 0.1,
+    "latitude": 49.5
+  },
+  {
+    "name": "Marseille",
+    "locode": "FRMRS",
+    "longitude": 5.4,
+    "latitude": 43.3
+  },
+  {
+    "name": "Montoir-de-Bretagne",
+    "locode": "FRMTX",
+    "longitude": -2.15,
+    "latitude": 47.333333333333336
+  },
+  {
+    "name": "Port-Vendres",
+    "locode": "FRPOV",
+    "longitude": 3.116666666666667,
+    "latitude": 42.516666666666666
+  },
+  {
+    "name": "Radicatel",
+    "locode": "FRRAD",
+    "longitude": 0.5,
+    "latitude": 49.5
+  },
+  {
+    "name": "Rouen",
+    "locode": "FRURO",
+    "longitude": 1.1,
+    "latitude": 49.45
+  },
+  {
+    "name": "S\ufffdte",
+    "locode": "FRSET",
+    "longitude": 3.7,
+    "latitude": 43.4
+  },
+  {
+    "name": "Toulon",
+    "locode": "FRTLN",
+    "longitude": 5.933333333333334,
+    "latitude": 43.11666666666667
+  },
+  {
+    "name": "Aberdeen",
+    "locode": "GBABD",
+    "longitude": -2.1,
+    "latitude": 57.13333333333333
+  },
+  {
+    "name": "Belfast",
+    "locode": "GBBEL",
+    "longitude": -5.916666666666667,
+    "latitude": 54.983333333333334
+  },
+  {
+    "name": "Grangemouth",
+    "locode": "GBGRG",
+    "longitude": -3.716666666666667,
+    "latitude": 56.0
+  },
+  {
+    "name": "Greenock",
+    "locode": "GBGRK",
+    "longitude": -4.75,
+    "latitude": 55.93333333333333
+  },
+  {
+    "name": "Hull",
+    "locode": "GBHUL",
+    "longitude": -0.316666666666667,
+    "latitude": 53.733333333333334
+  },
+  {
+    "name": "Immingham",
+    "locode": "GBIMM",
+    "longitude": -0.216666666666667,
+    "latitude": 53.6
+  },
+  {
+    "name": "Liverpool",
+    "locode": "GBLIV",
+    "longitude": -3.0,
+    "latitude": 53.416666666666664
+  },
+  {
+    "name": "London Gateway Port",
+    "locode": "GBLGP",
+    "longitude": 0.483333333333333,
+    "latitude": 51.5
+  },
+  {
+    "name": "Teesport",
+    "locode": "GBTEE",
+    "longitude": -1.15,
+    "latitude": 54.583333333333336
+  },
+  {
+    "name": "Tyne",
+    "locode": "GBTYN",
+    "longitude": -1.433333333333333,
+    "latitude": 55.0
+  },
+  {
+    "name": "D\ufffdgrad des Cannes",
+    "locode": "GFDDC",
+    "longitude": -52.266666666666666,
+    "latitude": 4.85
+  },
+  {
+    "name": "Nuuk (Godthaab)",
+    "locode": "GLGOH",
+    "longitude": -51.75,
+    "latitude": 64.18333333333334
+  },
+  {
+    "name": "Point-\ufffd-Pitre Apt",
+    "locode": "GPPTP",
+    "longitude": -61.516666666666666,
+    "latitude": 16.266666666666666
+  },
+  {
+    "name": "Heraklion (Iraklion)",
+    "locode": "GRHER",
+    "longitude": 25.166666666666668,
+    "latitude": 35.333333333333336
+  },
+  {
+    "name": "Iraklion (Heraklion)",
+    "locode": "GRHER",
+    "longitude": 25.166666666666668,
+    "latitude": 35.333333333333336
+  },
+  {
+    "name": "Piraeus",
+    "locode": "GRPIR",
+    "longitude": 23.616666666666667,
+    "latitude": 37.93333333333333
+  },
+  {
+    "name": "Thessalon\ufffdki",
+    "locode": "GRSKG",
+    "longitude": 22.95,
+    "latitude": 40.63333333333333
+  },
+  {
+    "name": "V\ufffdlos",
+    "locode": "GRVOL",
+    "longitude": 22.95,
+    "latitude": 39.36666666666667
+  },
+  {
+    "name": "Puerto Santo Tom\ufffds de Castilla",
+    "locode": "GTSTC",
+    "longitude": -88.61666666666666,
+    "latitude": 15.7
+  },
+  {
+    "name": "Piti",
+    "locode": "GUPIT",
+    "longitude": 144.68333333333334,
+    "latitude": 13.433333333333334
+  },
+  {
+    "name": "Bissau",
+    "locode": "GWOXB",
+    "longitude": -15.583333333333334,
+    "latitude": 11.85
+  },
+  {
+    "name": "Ploce",
+    "locode": "HRPLE",
+    "longitude": 17.433333333333334,
+    "latitude": 43.05
+  },
+  {
+    "name": "Rijeka",
+    "locode": "HRRJK",
+    "longitude": 14.4,
+    "latitude": 45.333333333333336
+  },
+  {
+    "name": "Split",
+    "locode": "HRSPU",
+    "longitude": 16.45,
+    "latitude": 43.5
+  },
+  {
+    "name": "Cap-Ha\ufffdtien",
+    "locode": "HTCAP",
+    "longitude": -72.2,
+    "latitude": 19.75
+  },
+  {
+    "name": "Lafiteau",
+    "locode": "HTLFF",
+    "longitude": -72.43333333333334,
+    "latitude": 18.483333333333334
+  },
+  {
+    "name": "Balikpapan",
+    "locode": "IDBPN",
+    "longitude": 116.83333333333333,
+    "latitude": -1.283333333333333
+  },
+  {
+    "name": "Batam Island",
+    "locode": "IDBTM",
+    "longitude": 104.03333333333333,
+    "latitude": 1.083333333333333
+  },
+  {
+    "name": "Benete",
+    "locode": "IDBEN",
+    "longitude": 116.71666666666667,
+    "latitude": -8.866666666666667
+  },
+  {
+    "name": "Benoa",
+    "locode": "IDBOA",
+    "longitude": 115.21666666666667,
+    "latitude": -8.766666666666667
+  },
+  {
+    "name": "Jakarta, Java",
+    "locode": "IDJKT",
+    "longitude": 106.83333333333333,
+    "latitude": -6.133333333333334
+  },
+  {
+    "name": "Jayapura, Irian Jaya",
+    "locode": "IDDJJ",
+    "longitude": 140.7,
+    "latitude": -2.533333333333333
+  },
+  {
+    "name": "Kumai",
+    "locode": "IDKUM",
+    "longitude": 111.71666666666667,
+    "latitude": -2.733333333333333
+  },
+  {
+    "name": "Makassar",
+    "locode": "IDMAK",
+    "longitude": 119.4,
+    "latitude": -5.116666666666666
+  },
+  {
+    "name": "Padang",
+    "locode": "IDPDG",
+    "longitude": 100.35,
+    "latitude": -0.95
+  },
+  {
+    "name": "Perawang",
+    "locode": "IDPER",
+    "longitude": 102.86666666666666,
+    "latitude": 1.066666666666667
+  },
+  {
+    "name": "Semarang",
+    "locode": "IDSRG",
+    "longitude": 110.48333333333333,
+    "latitude": -6.966666666666667
+  },
+  {
+    "name": "Surabaya",
+    "locode": "IDSUB",
+    "longitude": 112.75,
+    "latitude": -7.233333333333333
+  },
+  {
+    "name": "Tanjungpinang",
+    "locode": "IDTNJ",
+    "longitude": 104.45,
+    "latitude": 0.916666666666667
+  },
+  {
+    "name": "Timika",
+    "locode": "IDTMK",
+    "longitude": 136.55,
+    "latitude": -4.75
+  },
+  {
+    "name": "Tual",
+    "locode": "IDTUA",
+    "longitude": 132.73333333333332,
+    "latitude": -5.633333333333333
+  },
+  {
+    "name": "Waterford",
+    "locode": "IEWAT",
+    "longitude": -7.1,
+    "latitude": 52.25
+  },
+  {
+    "name": "Haifa",
+    "locode": "ILHFA",
+    "longitude": 34.983333333333334,
+    "latitude": 32.8
+  },
+  {
+    "name": "Chennai (ex Madras)",
+    "locode": "INMAA",
+    "longitude": 80.28333333333333,
+    "latitude": 13.083333333333334
+  },
+  {
+    "name": "Cochin",
+    "locode": "INCOK",
+    "longitude": 76.23333333333333,
+    "latitude": 9.966666666666667
+  },
+  {
+    "name": "Hazira",
+    "locode": "INHZR",
+    "longitude": 72.62343557464672,
+    "latitude": 21.09641041428134
+  },
+  {
+    "name": "Kandla",
+    "locode": "INIXY",
+    "longitude": 70.21666666666667,
+    "latitude": 23.033333333333335
+  },
+  {
+    "name": "Kattupalli Port",
+    "locode": "INKTP",
+    "longitude": 80.38333333333334,
+    "latitude": 13.3
+  },
+  {
+    "name": "Kolkata (ex Calcutta)",
+    "locode": "INCCU",
+    "longitude": 88.35,
+    "latitude": 22.566666666666666
+  },
+  {
+    "name": "Marmagao (Marmugao)",
+    "locode": "INMRM",
+    "longitude": 73.78333333333333,
+    "latitude": 15.4
+  },
+  {
+    "name": "Marmugao (Marmagao)",
+    "locode": "INMRM",
+    "longitude": 73.78333333333333,
+    "latitude": 15.4
+  },
+  {
+    "name": "Mumbai (ex Bombay)",
+    "locode": "INBOM",
+    "longitude": 72.81666666666666,
+    "latitude": 18.966666666666665
+  },
+  {
+    "name": "Paradip Garh",
+    "locode": "INPRT",
+    "longitude": 86.61666666666666,
+    "latitude": 20.316666666666666
+  },
+  {
+    "name": "Pipavav (Victor) Port",
+    "locode": "INPAV",
+    "longitude": 71.55,
+    "latitude": 20.966666666666665
+  },
+  {
+    "name": "Tuticorin",
+    "locode": "INTUT",
+    "longitude": 78.13333333333334,
+    "latitude": 8.783333333333333
+  },
+  {
+    "name": "Visakhapatnam",
+    "locode": "INVTZ",
+    "longitude": 83.3,
+    "latitude": 17.7
+  },
+  {
+    "name": "Umm Qasr Port",
+    "locode": "IQUQR",
+    "longitude": 47.93333333333333,
+    "latitude": 30.033333333333335
+  },
+  {
+    "name": "Asaluyeh",
+    "locode": "IRASA",
+    "longitude": 52.6,
+    "latitude": 27.466666666666665
+  },
+  {
+    "name": "Bandar Abbas",
+    "locode": "IRBND",
+    "longitude": 56.266666666666666,
+    "latitude": 27.183333333333334
+  },
+  {
+    "name": "Bandar Khomeini",
+    "locode": "IRBKM",
+    "longitude": 49.1,
+    "latitude": 30.433333333333334
+  },
+  {
+    "name": "Bushehr",
+    "locode": "IRBUZ",
+    "longitude": 50.833333333333336,
+    "latitude": 28.966666666666665
+  },
+  {
+    "name": "Reykjav\ufffdk",
+    "locode": "ISREY",
+    "longitude": -21.95,
+    "latitude": 64.15
+  },
+  {
+    "name": "Ancona",
+    "locode": "ITAOI",
+    "longitude": 13.5,
+    "latitude": 43.63333333333333
+  },
+  {
+    "name": "Bari",
+    "locode": "ITBRI",
+    "longitude": 16.85,
+    "latitude": 41.13333333333333
+  },
+  {
+    "name": "Cagliari",
+    "locode": "ITCAG",
+    "longitude": 9.116666666666667,
+    "latitude": 39.21666666666667
+  },
+  {
+    "name": "Catania",
+    "locode": "ITCTA",
+    "longitude": 15.1,
+    "latitude": 37.5
+  },
+  {
+    "name": "Civitavecchia",
+    "locode": "ITCVV",
+    "longitude": 11.8,
+    "latitude": 42.1
+  },
+  {
+    "name": "Genova",
+    "locode": "ITGOA",
+    "longitude": 8.95,
+    "latitude": 44.416666666666664
+  },
+  {
+    "name": "Gioia Tauro",
+    "locode": "ITGIT",
+    "longitude": 15.9,
+    "latitude": 38.416666666666664
+  },
+  {
+    "name": "La Spezia",
+    "locode": "ITSPE",
+    "longitude": 9.833333333333334,
+    "latitude": 44.11666666666667
+  },
+  {
+    "name": "Livorno",
+    "locode": "ITLIV",
+    "longitude": 10.316666666666666,
+    "latitude": 43.55
+  },
+  {
+    "name": "Napoli",
+    "locode": "ITNAP",
+    "longitude": 14.25,
+    "latitude": 40.833333333333336
+  },
+  {
+    "name": "Olbia",
+    "locode": "ITOLB",
+    "longitude": 9.516666666666667,
+    "latitude": 40.916666666666664
+  },
+  {
+    "name": "Palermo",
+    "locode": "ITPMO",
+    "longitude": 13.366666666666667,
+    "latitude": 38.11666666666667
+  },
+  {
+    "name": "Savona",
+    "locode": "ITSVN",
+    "longitude": 8.5,
+    "latitude": 44.28333333333333
+  },
+  {
+    "name": "Trapani",
+    "locode": "ITTPS",
+    "longitude": 12.483333333333333,
+    "latitude": 38.016666666666666
+  },
+  {
+    "name": "Vado Ligure",
+    "locode": "ITVDL",
+    "longitude": 8.45,
+    "latitude": 44.266666666666666
+  },
+  {
+    "name": "Venezia",
+    "locode": "ITVCE",
+    "longitude": 12.333333333333334,
+    "latitude": 45.43333333333333
+  },
+  {
+    "name": "Al 'Aqabah",
+    "locode": "JOAQJ",
+    "longitude": 35.0,
+    "latitude": 29.533333333333335
+  },
+  {
+    "name": "Hakata",
+    "locode": "JPHTD",
+    "longitude": 133.1,
+    "latitude": 34.18333333333333
+  },
+  {
+    "name": "Isa",
+    "locode": "JPISS",
+    "longitude": 130.6,
+    "latitude": 32.05
+  },
+  {
+    "name": "Kitakyushu",
+    "locode": "JPKKJ",
+    "longitude": 130.83333333333334,
+    "latitude": 33.833333333333336
+  },
+  {
+    "name": "Kobe",
+    "locode": "JPUKB",
+    "longitude": 135.16666666666666,
+    "latitude": 34.68333333333333
+  },
+  {
+    "name": "Mitajiri",
+    "locode": "JPMJR",
+    "longitude": 131.58333333333334,
+    "latitude": 34.03333333333333
+  },
+  {
+    "name": "Moji/Kitakyushu",
+    "locode": "JPMOJ",
+    "longitude": 130.96666666666667,
+    "latitude": 33.9
+  },
+  {
+    "name": "Osaka",
+    "locode": "JPOSA",
+    "longitude": 135.5,
+    "latitude": 34.666666666666664
+  },
+  {
+    "name": "Satsumasendai",
+    "locode": "JPSEN",
+    "longitude": 130.25,
+    "latitude": 31.816666666666666
+  },
+  {
+    "name": "Tokyo",
+    "locode": "JPTYO",
+    "longitude": 139.75,
+    "latitude": 35.68333333333333
+  },
+  {
+    "name": "Yokohama",
+    "locode": "JPYOK",
+    "longitude": 139.65,
+    "latitude": 35.45
+  },
+  {
+    "name": "K\ufffdmp\ufffdng Sa\ufffdm",
+    "locode": "KHKOS",
+    "longitude": 103.51666666666667,
+    "latitude": 10.6
+  },
+  {
+    "name": "Mutsamudu, Anjouan",
+    "locode": "KMMUT",
+    "longitude": 44.38333333333333,
+    "latitude": -12.15
+  },
+  {
+    "name": "Charlestown",
+    "locode": "KNCHA",
+    "longitude": -62.61666666666667,
+    "latitude": 17.133333333333333
+  },
+  {
+    "name": "Busan",
+    "locode": "KRPUS",
+    "longitude": 129.05,
+    "latitude": 35.13333333333333
+  },
+  {
+    "name": "Daesan/Seosan",
+    "locode": "KRTSN",
+    "longitude": 126.36666666666666,
+    "latitude": 37.0
+  },
+  {
+    "name": "Dangjin",
+    "locode": "KRTJI",
+    "longitude": 126.78333333333333,
+    "latitude": 36.96666666666667
+  },
+  {
+    "name": "Gunsan",
+    "locode": "KRKUV",
+    "longitude": 126.71666666666667,
+    "latitude": 35.983333333333334
+  },
+  {
+    "name": "Gwangyang",
+    "locode": "KRKAN",
+    "longitude": 127.7,
+    "latitude": 34.93333333333333
+  },
+  {
+    "name": "Incheon",
+    "locode": "KRINC",
+    "longitude": 126.61666666666666,
+    "latitude": 37.45
+  },
+  {
+    "name": "Masan",
+    "locode": "KRMAS",
+    "longitude": 128.56666666666666,
+    "latitude": 35.2
+  },
+  {
+    "name": "Mokpo",
+    "locode": "KRMOK",
+    "longitude": 126.38333333333334,
+    "latitude": 34.8
+  },
+  {
+    "name": "Pohang",
+    "locode": "KRKPO",
+    "longitude": 129.36666666666667,
+    "latitude": 36.03333333333333
+  },
+  {
+    "name": "Pyeongtaek",
+    "locode": "KRPTK",
+    "longitude": 127.1,
+    "latitude": 36.96666666666667
+  },
+  {
+    "name": "Ulsan",
+    "locode": "KRUSN",
+    "longitude": 129.31666666666666,
+    "latitude": 35.53333333333333
+  },
+  {
+    "name": "Shuaiba",
+    "locode": "KWSAA",
+    "longitude": 48.13333333333333,
+    "latitude": 29.033333333333335
+  },
+  {
+    "name": "Shuwaikh",
+    "locode": "KWSWK",
+    "longitude": 47.93333333333333,
+    "latitude": 29.35
+  },
+  {
+    "name": "Georgetown, Grand Cayman",
+    "locode": "KYGEC",
+    "longitude": -81.38333333333334,
+    "latitude": 19.3
+  },
+  {
+    "name": "Beirut",
+    "locode": "LBBEY",
+    "longitude": 35.483333333333334,
+    "latitude": 33.833333333333336
+  },
+  {
+    "name": "Castries",
+    "locode": "LCCAS",
+    "longitude": -60.96666666666667,
+    "latitude": 14.016666666666667
+  },
+  {
+    "name": "Colombo",
+    "locode": "LKCMB",
+    "longitude": 79.85,
+    "latitude": 6.916666666666667
+  },
+  {
+    "name": "Monrovia",
+    "locode": "LRMLW",
+    "longitude": -10.8,
+    "latitude": 6.3
+  },
+  {
+    "name": "Al Khums",
+    "locode": "LYKHO",
+    "longitude": 14.266666666666667,
+    "latitude": 32.65
+  },
+  {
+    "name": "Casablanca",
+    "locode": "MACAS",
+    "longitude": -7.6,
+    "latitude": 33.583333333333336
+  },
+  {
+    "name": "Giurgiulesti",
+    "locode": "MDGIU",
+    "longitude": 28.183333333333334,
+    "latitude": 45.46666666666667
+  },
+  {
+    "name": "Bar",
+    "locode": "MEBAR",
+    "longitude": 19.083333333333332,
+    "latitude": 42.083333333333336
+  },
+  {
+    "name": "Ehoala",
+    "locode": "MGEHL",
+    "longitude": 46.95,
+    "latitude": -25.066666666666666
+  },
+  {
+    "name": "Nosy-Be",
+    "locode": "MGNOS",
+    "longitude": 48.25,
+    "latitude": -13.333333333333334
+  },
+  {
+    "name": "Majuro",
+    "locode": "MHMAJ",
+    "longitude": 171.38333333333333,
+    "latitude": 7.1
+  },
+  {
+    "name": "Thilawa",
+    "locode": "MMTLA",
+    "longitude": 96.25,
+    "latitude": 16.65
+  },
+  {
+    "name": "Thilawa",
+    "locode": "MMTLA",
+    "longitude": 96.25,
+    "latitude": 16.65
+  },
+  {
+    "name": "Marsaxlokk",
+    "locode": "MTMAR",
+    "longitude": 14.533333333333333,
+    "latitude": 35.833333333333336
+  },
+  {
+    "name": "Port Mathurin",
+    "locode": "MUPMA",
+    "longitude": 63.416666666666664,
+    "latitude": -19.683333333333334
+  },
+  {
+    "name": "Male",
+    "locode": "MVMLE",
+    "longitude": 73.5,
+    "latitude": 4.166666666666667
+  },
+  {
+    "name": "Altamira",
+    "locode": "MXATM",
+    "longitude": -97.91666666666667,
+    "latitude": 22.4
+  },
+  {
+    "name": "Coatzacoalcos",
+    "locode": "MXCOA",
+    "longitude": -94.4,
+    "latitude": 18.133333333333333
+  },
+  {
+    "name": "Ensenada",
+    "locode": "MXESE",
+    "longitude": -116.6,
+    "latitude": 31.85
+  },
+  {
+    "name": "Guaymas",
+    "locode": "MXGYM",
+    "longitude": -110.88333333333334,
+    "latitude": 27.916666666666668
+  },
+  {
+    "name": "L\ufffdzaro C\ufffdrdenas",
+    "locode": "MXLZC",
+    "longitude": -102.18333333333334,
+    "latitude": 17.95
+  },
+  {
+    "name": "Manzanillo",
+    "locode": "MXZLO",
+    "longitude": -104.3,
+    "latitude": 19.05
+  },
+  {
+    "name": "Mazatlan",
+    "locode": "MXMZT",
+    "longitude": -106.4,
+    "latitude": 23.4
+  },
+  {
+    "name": "Paraiso",
+    "locode": "MXPRO",
+    "longitude": -92.2,
+    "latitude": 18.183333333333334
+  },
+  {
+    "name": "Puerto Madero",
+    "locode": "MXPMD",
+    "longitude": -92.41666666666667,
+    "latitude": 14.716666666666667
+  },
+  {
+    "name": "Puerto Morelos",
+    "locode": "MXPMS",
+    "longitude": -86.86666666666666,
+    "latitude": 20.833333333333332
+  },
+  {
+    "name": "Tampico",
+    "locode": "MXTAM",
+    "longitude": -97.86666666666666,
+    "latitude": 22.25
+  },
+  {
+    "name": "Tuxpan",
+    "locode": "MXTUX",
+    "longitude": -97.4,
+    "latitude": 20.95
+  },
+  {
+    "name": "Veracruz",
+    "locode": "MXVER",
+    "longitude": -96.08333333333333,
+    "latitude": 19.2
+  },
+  {
+    "name": "Penang (Georgetown)",
+    "locode": "MYPEN",
+    "longitude": 100.31666666666666,
+    "latitude": 5.416666666666667
+  },
+  {
+    "name": "Port Klang (Pelabuhan Klang)",
+    "locode": "MYPKG",
+    "longitude": 101.4,
+    "latitude": 3.0
+  },
+  {
+    "name": "Tanjung Pelepas",
+    "locode": "MYTPP",
+    "longitude": 103.55,
+    "latitude": 1.366666666666667
+  },
+  {
+    "name": "L\ufffdderitz",
+    "locode": "NALUD",
+    "longitude": 15.166666666666666,
+    "latitude": -26.65
+  },
+  {
+    "name": "Noum\ufffda",
+    "locode": "NCNOU",
+    "longitude": 166.45,
+    "latitude": -22.266666666666666
+  },
+  {
+    "name": "Noum\ufffda",
+    "locode": "NCNOU",
+    "longitude": 166.45,
+    "latitude": -22.266666666666666
+  },
+  {
+    "name": "Lekki",
+    "locode": "NGLKK",
+    "longitude": 3.1,
+    "latitude": 6.45
+  },
+  {
+    "name": "Onne",
+    "locode": "NGONN",
+    "longitude": 7.15,
+    "latitude": 4.716666666666667
+  },
+  {
+    "name": "Rama",
+    "locode": "NIRAM",
+    "longitude": -84.21666666666667,
+    "latitude": 12.15
+  },
+  {
+    "name": "Amsterdam",
+    "locode": "NLAMS",
+    "longitude": 4.816666666666666,
+    "latitude": 52.4
+  },
+  {
+    "name": "Botlek",
+    "locode": "NLBOT",
+    "longitude": 4.283333333333333,
+    "latitude": 51.88333333333333
+  },
+  {
+    "name": "IJmuiden/Velsen",
+    "locode": "NLIJM",
+    "longitude": 4.6,
+    "latitude": 52.46666666666667
+  },
+  {
+    "name": "Moerdijk",
+    "locode": "NLMOE",
+    "longitude": 4.566666666666666,
+    "latitude": 51.68333333333333
+  },
+  {
+    "name": "Rotterdam",
+    "locode": "NLRTM",
+    "longitude": 4.5,
+    "latitude": 51.916666666666664
+  },
+  {
+    "name": "Terneuzen",
+    "locode": "NLTNZ",
+    "longitude": 3.816666666666666,
+    "latitude": 51.46666666666667
+  },
+  {
+    "name": "Vlissingen",
+    "locode": "NLVLI",
+    "longitude": 3.7,
+    "latitude": 51.45
+  },
+  {
+    "name": "\ufffdlesund",
+    "locode": "NOAES",
+    "longitude": 6.15,
+    "latitude": 62.46666666666667
+  },
+  {
+    "name": "\ufffdrdalstangen",
+    "locode": "NOARD",
+    "longitude": 7.7,
+    "latitude": 61.233333333333334
+  },
+  {
+    "name": "Aver\ufffdy",
+    "locode": "NOAVE",
+    "longitude": 7.666666666666667,
+    "latitude": 63.05
+  },
+  {
+    "name": "Bergen",
+    "locode": "NOBGO",
+    "longitude": 5.316666666666666,
+    "latitude": 60.38333333333333
+  },
+  {
+    "name": "Bod\ufffd",
+    "locode": "NOBOO",
+    "longitude": 14.366666666666667,
+    "latitude": 67.28333333333333
+  },
+  {
+    "name": "Brevik",
+    "locode": "NOBVK",
+    "longitude": 9.7,
+    "latitude": 59.05
+  },
+  {
+    "name": "Drammen",
+    "locode": "NODRM",
+    "longitude": 10.233333333333333,
+    "latitude": 59.733333333333334
+  },
+  {
+    "name": "Egersund",
+    "locode": "NOEGE",
+    "longitude": 6.0,
+    "latitude": 58.45
+  },
+  {
+    "name": "Flor\ufffd",
+    "locode": "NOFRO",
+    "longitude": 5.016666666666667,
+    "latitude": 61.6
+  },
+  {
+    "name": "Fredrikstad",
+    "locode": "NOFRK",
+    "longitude": 10.916666666666666,
+    "latitude": 59.2
+  },
+  {
+    "name": "Fusa",
+    "locode": "NOFUS",
+    "longitude": 5.616666666666667,
+    "latitude": 60.2
+  },
+  {
+    "name": "Glomfjord",
+    "locode": "NOGLO",
+    "longitude": 13.933333333333334,
+    "latitude": 66.8
+  },
+  {
+    "name": "Hammerfest",
+    "locode": "NOHFT",
+    "longitude": 23.666666666666668,
+    "latitude": 70.65
+  },
+  {
+    "name": "Harstad",
+    "locode": "NOHRD",
+    "longitude": 16.533333333333335,
+    "latitude": 68.78333333333333
+  },
+  {
+    "name": "Haugesund",
+    "locode": "NOHAU",
+    "longitude": 5.25,
+    "latitude": 59.4
+  },
+  {
+    "name": "H\ufffdvik",
+    "locode": "NOHVI",
+    "longitude": 5.316666666666666,
+    "latitude": 59.3
+  },
+  {
+    "name": "Holla",
+    "locode": "NOHLA",
+    "longitude": 9.183333333333334,
+    "latitude": 59.6
+  },
+  {
+    "name": "H\ufffdyanger",
+    "locode": "NOHYR",
+    "longitude": 6.05,
+    "latitude": 61.21666666666667
+  },
+  {
+    "name": "Hus\ufffdy - T\ufffdnsberg",
+    "locode": "NOHOY",
+    "longitude": 10.45,
+    "latitude": 59.233333333333334
+  },
+  {
+    "name": "Ikornnes",
+    "locode": "NOIKR",
+    "longitude": 6.55,
+    "latitude": 62.38333333333333
+  },
+  {
+    "name": "Kristiansand",
+    "locode": "NOKRS",
+    "longitude": 7.983333333333333,
+    "latitude": 58.13333333333333
+  },
+  {
+    "name": "Larvik",
+    "locode": "NOLAR",
+    "longitude": 10.016666666666667,
+    "latitude": 59.03333333333333
+  },
+  {
+    "name": "M\ufffdl\ufffdy",
+    "locode": "NOMAY",
+    "longitude": 5.1,
+    "latitude": 61.93333333333333
+  },
+  {
+    "name": "Molde",
+    "locode": "NOMOL",
+    "longitude": 7.15,
+    "latitude": 62.733333333333334
+  },
+  {
+    "name": "Mosj\ufffden",
+    "locode": "NOMJF",
+    "longitude": 13.2,
+    "latitude": 65.83333333333333
+  },
+  {
+    "name": "Moss",
+    "locode": "NOMSS",
+    "longitude": 10.65,
+    "latitude": 59.416666666666664
+  },
+  {
+    "name": "Odda",
+    "locode": "NOODD",
+    "longitude": 6.533333333333333,
+    "latitude": 60.06666666666667
+  },
+  {
+    "name": "Orkanger",
+    "locode": "NOORK",
+    "longitude": 9.833333333333334,
+    "latitude": 63.31666666666667
+  },
+  {
+    "name": "Oslo",
+    "locode": "NOOSL",
+    "longitude": 10.733333333333333,
+    "latitude": 59.9
+  },
+  {
+    "name": "Salten",
+    "locode": "NOSAT",
+    "longitude": 15.583333333333334,
+    "latitude": 67.36666666666666
+  },
+  {
+    "name": "Stavanger",
+    "locode": "NOSVG",
+    "longitude": 5.75,
+    "latitude": 58.96666666666667
+  },
+  {
+    "name": "Stokmarknes",
+    "locode": "NOSKN",
+    "longitude": 14.9,
+    "latitude": 68.56666666666666
+  },
+  {
+    "name": "Sunndals\ufffdra",
+    "locode": "NOSUN",
+    "longitude": 8.55,
+    "latitude": 62.666666666666664
+  },
+  {
+    "name": "Svelgen",
+    "locode": "NOSVE",
+    "longitude": 5.283333333333333,
+    "latitude": 61.766666666666666
+  },
+  {
+    "name": "Svolv\ufffdr",
+    "locode": "NOSVJ",
+    "longitude": 14.55,
+    "latitude": 68.21666666666667
+  },
+  {
+    "name": "Tananger",
+    "locode": "NOTAE",
+    "longitude": 5.583333333333333,
+    "latitude": 58.916666666666664
+  },
+  {
+    "name": "Troms\ufffd",
+    "locode": "NOTOS",
+    "longitude": 18.966666666666665,
+    "latitude": 69.66666666666667
+  },
+  {
+    "name": "Trondheim",
+    "locode": "NOTRD",
+    "longitude": 10.4,
+    "latitude": 63.43333333333333
+  },
+  {
+    "name": "Nauru Island",
+    "locode": "NRINU",
+    "longitude": 166.91666666666666,
+    "latitude": -0.55
+  },
+  {
+    "name": "Auckland",
+    "locode": "NZAKL",
+    "longitude": 174.8,
+    "latitude": -36.833333333333336
+  },
+  {
+    "name": "Bluff",
+    "locode": "NZBLU",
+    "longitude": 168.31666666666666,
+    "latitude": -46.6
+  },
+  {
+    "name": "Lyttelton",
+    "locode": "NZLYT",
+    "longitude": 172.71666666666667,
+    "latitude": -43.6
+  },
+  {
+    "name": "Marsden Point",
+    "locode": "NZMAP",
+    "longitude": 174.5,
+    "latitude": -35.833333333333336
+  },
+  {
+    "name": "Napier",
+    "locode": "NZNPE",
+    "longitude": 176.9,
+    "latitude": -39.46666666666667
+  },
+  {
+    "name": "Nelson",
+    "locode": "NZNSN",
+    "longitude": 173.26666666666668,
+    "latitude": -41.25
+  },
+  {
+    "name": "Port Chalmers",
+    "locode": "NZPOE",
+    "longitude": 170.6,
+    "latitude": -45.81666666666667
+  },
+  {
+    "name": "Tauranga",
+    "locode": "NZTRG",
+    "longitude": 176.16666666666666,
+    "latitude": -37.68333333333333
+  },
+  {
+    "name": "Timaru",
+    "locode": "NZTIU",
+    "longitude": 171.25,
+    "latitude": -44.38333333333333
+  },
+  {
+    "name": "Wellington",
+    "locode": "NZWLG",
+    "longitude": 174.78333333333333,
+    "latitude": -41.266666666666666
+  },
+  {
+    "name": "Col\ufffdn",
+    "locode": "PAONX",
+    "longitude": -79.86666666666666,
+    "latitude": 9.35
+  },
+  {
+    "name": "Crist\ufffdbal",
+    "locode": "PACTB",
+    "longitude": -79.9,
+    "latitude": 9.35
+  },
+  {
+    "name": "Panam\ufffd, Ciudad de",
+    "locode": "PAPTY",
+    "longitude": -79.53333333333333,
+    "latitude": 8.966666666666667
+  },
+  {
+    "name": "Rodman",
+    "locode": "PAROD",
+    "longitude": -79.56666666666666,
+    "latitude": 8.95
+  },
+  {
+    "name": "Bora Bora",
+    "locode": "PFBOB",
+    "longitude": -151.75,
+    "latitude": -16.45
+  },
+  {
+    "name": "Papeete",
+    "locode": "PFPPT",
+    "longitude": -149.61666666666667,
+    "latitude": -17.55
+  },
+  {
+    "name": "Madang",
+    "locode": "PGMAG",
+    "longitude": 145.78333333333333,
+    "latitude": -5.216666666666667
+  },
+  {
+    "name": "Motukea Island",
+    "locode": "PGMTK",
+    "longitude": 147.1,
+    "latitude": -9.433333333333334
+  },
+  {
+    "name": "Batangas/Luzon",
+    "locode": "PHBTG",
+    "longitude": 121.05,
+    "latitude": 13.75
+  },
+  {
+    "name": "General Santos",
+    "locode": "PHGES",
+    "longitude": 125.15,
+    "latitude": 6.116666666666666
+  },
+  {
+    "name": "Tagoloan",
+    "locode": "PHTGO",
+    "longitude": 124.75,
+    "latitude": 8.533333333333333
+  },
+  {
+    "name": "Gdynia",
+    "locode": "PLGDY",
+    "longitude": 18.55,
+    "latitude": 54.5
+  },
+  {
+    "name": "Swinoujscie",
+    "locode": "PLSWI",
+    "longitude": 14.25,
+    "latitude": 53.9
+  },
+  {
+    "name": "San Juan",
+    "locode": "PRSJU",
+    "longitude": -66.08333333333333,
+    "latitude": 18.45
+  },
+  {
+    "name": "Cani\ufffdal",
+    "locode": "PTCNL",
+    "longitude": -16.733333333333334,
+    "latitude": 32.733333333333334
+  },
+  {
+    "name": "Figueira da Foz",
+    "locode": "PTFDF",
+    "longitude": -8.866666666666667,
+    "latitude": 40.15
+  },
+  {
+    "name": "Horta",
+    "locode": "PTHOR",
+    "longitude": -28.633333333333333,
+    "latitude": 38.53333333333333
+  },
+  {
+    "name": "Leix\ufffdes",
+    "locode": "PTLEI",
+    "longitude": -8.683333333333334,
+    "latitude": 41.18333333333333
+  },
+  {
+    "name": "Lisboa",
+    "locode": "PTLIS",
+    "longitude": -9.133333333333333,
+    "latitude": 38.71666666666667
+  },
+  {
+    "name": "Pico",
+    "locode": "PTPIC",
+    "longitude": -8.416666666666666,
+    "latitude": 41.68333333333333
+  },
+  {
+    "name": "Ponta Delgada",
+    "locode": "PTPDL",
+    "longitude": -25.666666666666668,
+    "latitude": 37.733333333333334
+  },
+  {
+    "name": "Porto Santo Island",
+    "locode": "PTPXO",
+    "longitude": -16.333333333333332,
+    "latitude": 33.06666666666667
+  },
+  {
+    "name": "Praia da Graciosa",
+    "locode": "PTPRG",
+    "longitude": -27.966666666666665,
+    "latitude": 39.05
+  },
+  {
+    "name": "Praia da Vit\ufffdria",
+    "locode": "PTPRV",
+    "longitude": -27.066666666666666,
+    "latitude": 38.733333333333334
+  },
+  {
+    "name": "Santa Cruz das Flores",
+    "locode": "PTSCF",
+    "longitude": -31.116666666666667,
+    "latitude": 39.45
+  },
+  {
+    "name": "Set\ufffdbal",
+    "locode": "PTSET",
+    "longitude": -8.9,
+    "latitude": 38.53333333333333
+  },
+  {
+    "name": "Sines",
+    "locode": "PTSIE",
+    "longitude": -8.866666666666667,
+    "latitude": 37.95
+  },
+  {
+    "name": "Velas",
+    "locode": "PTVEL",
+    "longitude": -28.216666666666665,
+    "latitude": 38.68333333333333
+  },
+  {
+    "name": "Vila do Porto",
+    "locode": "PTVDP",
+    "longitude": -25.15,
+    "latitude": 36.93333333333333
+  },
+  {
+    "name": "Asunci\ufffdn",
+    "locode": "PYASU",
+    "longitude": -57.666666666666664,
+    "latitude": -25.266666666666666
+  },
+  {
+    "name": "BGN/PCGN1956 - HAMAD",
+    "locode": "QAHMD",
+    "longitude": 51.61666666666667,
+    "latitude": 25.0
+  },
+  {
+    "name": "Mesaieed",
+    "locode": "QAMES",
+    "longitude": 51.916666666666664,
+    "latitude": 25.633333333333333
+  },
+  {
+    "name": "Constanta",
+    "locode": "ROCND",
+    "longitude": 28.65,
+    "latitude": 44.18333333333333
+  },
+  {
+    "name": "Lomonosov",
+    "locode": "RUBRK",
+    "longitude": 29.733333333333334,
+    "latitude": 59.9
+  },
+  {
+    "name": "Novorossiysk",
+    "locode": "RUNVS",
+    "longitude": 37.766666666666666,
+    "latitude": 44.71666666666667
+  },
+  {
+    "name": "Saint Petersburg (ex Leningrad)",
+    "locode": "RULED",
+    "longitude": 30.25,
+    "latitude": 59.88333333333333
+  },
+  {
+    "name": "Ust'-Luga",
+    "locode": "RUULU",
+    "longitude": 28.316666666666666,
+    "latitude": 59.666666666666664
+  },
+  {
+    "name": "Vostochnyy Port",
+    "locode": "RUVYP",
+    "longitude": 133.05,
+    "latitude": 42.766666666666666
+  },
+  {
+    "name": "Zarubino",
+    "locode": "RUZAR",
+    "longitude": 131.08333333333334,
+    "latitude": 42.61666666666667
+  },
+  {
+    "name": "Ad Dammam",
+    "locode": "SADMM",
+    "longitude": 50.1,
+    "latitude": 26.416666666666668
+  },
+  {
+    "name": "Jeddah",
+    "locode": "SAJED",
+    "longitude": 39.166666666666664,
+    "latitude": 21.533333333333335
+  },
+  {
+    "name": "King Abdullah City",
+    "locode": "SAKAC",
+    "longitude": 39.083333333333336,
+    "latitude": 22.4
+  },
+  {
+    "name": "Yanbu al-Bahr",
+    "locode": "SAYNB",
+    "longitude": 38.03333333333333,
+    "latitude": 24.083333333333332
+  },
+  {
+    "name": "\ufffdhus",
+    "locode": "SEAHU",
+    "longitude": 14.283333333333333,
+    "latitude": 55.916666666666664
+  },
+  {
+    "name": "G\ufffdvle",
+    "locode": "SEGVX",
+    "longitude": 17.166666666666668,
+    "latitude": 60.666666666666664
+  },
+  {
+    "name": "G\ufffdteborg",
+    "locode": "SEGOT",
+    "longitude": 11.966666666666667,
+    "latitude": 57.71666666666667
+  },
+  {
+    "name": "Halmstad",
+    "locode": "SEHAD",
+    "longitude": 12.85,
+    "latitude": 56.666666666666664
+  },
+  {
+    "name": "Karlstad",
+    "locode": "SEKSD",
+    "longitude": 13.5,
+    "latitude": 59.36666666666667
+  },
+  {
+    "name": "Norrk\ufffdping",
+    "locode": "SENRK",
+    "longitude": 16.183333333333334,
+    "latitude": 58.6
+  },
+  {
+    "name": "Oskarshamn",
+    "locode": "SEOSK",
+    "longitude": 16.433333333333334,
+    "latitude": 57.266666666666666
+  },
+  {
+    "name": "Oxel\ufffdsund",
+    "locode": "SEOXE",
+    "longitude": 17.1,
+    "latitude": 58.666666666666664
+  },
+  {
+    "name": "Pite\ufffd",
+    "locode": "SEPIT",
+    "longitude": 21.5,
+    "latitude": 65.33333333333333
+  },
+  {
+    "name": "S\ufffddert\ufffdlje",
+    "locode": "SESOE",
+    "longitude": 17.616666666666667,
+    "latitude": 59.2
+  },
+  {
+    "name": "Stockholm",
+    "locode": "SESTO",
+    "longitude": 18.05,
+    "latitude": 59.333333333333336
+  },
+  {
+    "name": "Sundsvall",
+    "locode": "SESDL",
+    "longitude": 17.3,
+    "latitude": 62.38333333333333
+  },
+  {
+    "name": "Ume\ufffd",
+    "locode": "SEUME",
+    "longitude": 20.25,
+    "latitude": 63.833333333333336
+  },
+  {
+    "name": "V\ufffdster\ufffds",
+    "locode": "SEVST",
+    "longitude": 16.55,
+    "latitude": 59.61666666666667
+  },
+  {
+    "name": "Latakia",
+    "locode": "SYLTK",
+    "longitude": 35.78333333333333,
+    "latitude": 35.516666666666666
+  },
+  {
+    "name": "Tartus",
+    "locode": "SYTTS",
+    "longitude": 35.9,
+    "latitude": 34.9
+  },
+  {
+    "name": "Bangkok",
+    "locode": "THBKK",
+    "longitude": 100.51666666666667,
+    "latitude": 13.75
+  },
+  {
+    "name": "Laem Chabang",
+    "locode": "THLCH",
+    "longitude": 100.88333333333334,
+    "latitude": 13.083333333333334
+  },
+  {
+    "name": "Phuket International Apt",
+    "locode": "THHKT",
+    "longitude": 98.31666666666666,
+    "latitude": 8.116666666666667
+  },
+  {
+    "name": "Sahathai Coastal Seaport",
+    "locode": "THSCS",
+    "longitude": 100.53333333333333,
+    "latitude": 13.65
+  },
+  {
+    "name": "Dili",
+    "locode": "TLDIL",
+    "longitude": 125.56666666666666,
+    "latitude": -8.55
+  },
+  {
+    "name": "Nuku'alofa",
+    "locode": "TOTBU",
+    "longitude": -175.2,
+    "latitude": -21.133333333333333
+  },
+  {
+    "name": "Ambarli",
+    "locode": "TRPAM",
+    "longitude": 39.166666666666664,
+    "latitude": 41.03333333333333
+  },
+  {
+    "name": "Antalya",
+    "locode": "TRAYT",
+    "longitude": 30.6,
+    "latitude": 36.833333333333336
+  },
+  {
+    "name": "Bandirma",
+    "locode": "TRBDM",
+    "longitude": 27.966666666666665,
+    "latitude": 40.35
+  },
+  {
+    "name": "Eregli",
+    "locode": "TRELI",
+    "longitude": 34.05,
+    "latitude": 37.5
+  },
+  {
+    "name": "Evyap Port /Kocaeli",
+    "locode": "TREYP",
+    "longitude": 29.7,
+    "latitude": 40.766666666666666
+  },
+  {
+    "name": "Gebze",
+    "locode": "TRGEB",
+    "longitude": 29.416666666666668,
+    "latitude": 40.78333333333333
+  },
+  {
+    "name": "Gemlik",
+    "locode": "TRGEM",
+    "longitude": 29.15,
+    "latitude": 40.416666666666664
+  },
+  {
+    "name": "Iskenderun",
+    "locode": "TRISK",
+    "longitude": 36.166666666666664,
+    "latitude": 36.583333333333336
+  },
+  {
+    "name": "Izmir",
+    "locode": "TRIZM",
+    "longitude": 27.15,
+    "latitude": 38.416666666666664
+  },
+  {
+    "name": "Izmit",
+    "locode": "TRIZT",
+    "longitude": 29.95,
+    "latitude": 40.78333333333333
+  },
+  {
+    "name": "Kumport",
+    "locode": "TRKMX",
+    "longitude": 28.816666666666666,
+    "latitude": 40.95
+  },
+  {
+    "name": "Limas",
+    "locode": "TRLMA",
+    "longitude": 26.916666666666668,
+    "latitude": 38.75
+  },
+  {
+    "name": "Mardas",
+    "locode": "TRMAD",
+    "longitude": 28.95,
+    "latitude": 41.016666666666666
+  },
+  {
+    "name": "Mersin",
+    "locode": "TRMER",
+    "longitude": 34.63333333333333,
+    "latitude": 36.71666666666667
+  },
+  {
+    "name": "Samsun",
+    "locode": "TRSSX",
+    "longitude": 36.333333333333336,
+    "latitude": 41.28333333333333
+  },
+  {
+    "name": "Tekirdag",
+    "locode": "TRTEK",
+    "longitude": 27.516666666666666,
+    "latitude": 40.96666666666667
+  },
+  {
+    "name": "Trabzon",
+    "locode": "TRTZX",
+    "longitude": 39.733333333333334,
+    "latitude": 41.0
+  },
+  {
+    "name": "Yilport",
+    "locode": "TRYPO",
+    "longitude": 29.533333333333335,
+    "latitude": 40.766666666666666
+  },
+  {
+    "name": "Port-of-Spain",
+    "locode": "TTPOS",
+    "longitude": -61.516666666666666,
+    "latitude": 10.65
+  },
+  {
+    "name": "Port-of-Spain",
+    "locode": "TTPOS",
+    "longitude": -61.516666666666666,
+    "latitude": 10.65
+  },
+  {
+    "name": "Taipei",
+    "locode": "TWTPE",
+    "longitude": 121.51666666666667,
+    "latitude": 25.033333333333335
+  },
+  {
+    "name": "Dar es Salaam",
+    "locode": "TZDAR",
+    "longitude": 39.28333333333333,
+    "latitude": -6.8
+  },
+  {
+    "name": "Chornomorsk",
+    "locode": "UAILK",
+    "longitude": 30.666666666666668,
+    "latitude": 46.31666666666667
+  },
+  {
+    "name": "Odesa",
+    "locode": "UAODS",
+    "longitude": 30.75,
+    "latitude": 46.5
+  },
+  {
+    "name": "Yuzhnyi",
+    "locode": "UAYUZ",
+    "longitude": 31.016666666666666,
+    "latitude": 46.6
+  },
+  {
+    "name": "Baltimore",
+    "locode": "USBAL",
+    "longitude": -76.61666666666666,
+    "latitude": 39.28333333333333
+  },
+  {
+    "name": "Chester",
+    "locode": "USACL",
+    "longitude": -72.58333333333333,
+    "latitude": 43.266666666666666
+  },
+  {
+    "name": "Eastport",
+    "locode": "USEPI",
+    "longitude": -67.0004603662156,
+    "latitude": 44.91896389779203
+  },
+  {
+    "name": "Fernandina Beach",
+    "locode": "USFEB",
+    "longitude": -81.45,
+    "latitude": 30.666666666666668
+  },
+  {
+    "name": "Gulfport",
+    "locode": "USGFP",
+    "longitude": -89.08490622032289,
+    "latitude": 30.37815645773978
+  },
+  {
+    "name": "Honolulu",
+    "locode": "USHNL",
+    "longitude": -157.85,
+    "latitude": 21.3
+  },
+  {
+    "name": "Houston",
+    "locode": "USHKA",
+    "longitude": -149.81666666666666,
+    "latitude": 61.63333333333333
+  },
+  {
+    "name": "Long Beach",
+    "locode": "USLGB",
+    "longitude": -118.18333333333334,
+    "latitude": 33.766666666666666
+  },
+  {
+    "name": "New York",
+    "locode": "USNYC",
+    "longitude": -74.0,
+    "latitude": 40.7
+  },
+  {
+    "name": "Norfolk",
+    "locode": "USNFF",
+    "longitude": -73.2,
+    "latitude": 42.0
+  },
+  {
+    "name": "Oakland",
+    "locode": "USKND",
+    "longitude": -122.22025462962964,
+    "latitude": 37.932904795821436
+  },
+  {
+    "name": "Philadelphia",
+    "locode": "USPDP",
+    "longitude": -75.71666666666667,
+    "latitude": 44.15
+  },
+  {
+    "name": "Port Everglades",
+    "locode": "USPEF",
+    "longitude": -80.13333333333334,
+    "latitude": 26.1
+  },
+  {
+    "name": "Port Hueneme",
+    "locode": "USNTD",
+    "longitude": -119.18333333333334,
+    "latitude": 34.13333333333333
+  },
+  {
+    "name": "Port Manatee",
+    "locode": "USPME",
+    "longitude": -82.55,
+    "latitude": 27.633333333333333
+  },
+  {
+    "name": "San Diego",
+    "locode": "USSAN",
+    "longitude": -117.15,
+    "latitude": 32.7
+  },
+  {
+    "name": "Stockton",
+    "locode": "USSCK",
+    "longitude": -121.28333333333333,
+    "latitude": 37.95
+  },
+  {
+    "name": "Wilmington",
+    "locode": "USILM",
+    "longitude": -77.93333333333334,
+    "latitude": 34.21666666666667
+  },
+  {
+    "name": "Punta Pereyra",
+    "locode": "UYPTP",
+    "longitude": -58.06666666666667,
+    "latitude": -34.233333333333334
+  },
+  {
+    "name": "Kingstown",
+    "locode": "VCKTN",
+    "longitude": -61.21666666666667,
+    "latitude": 13.133333333333333
+  },
+  {
+    "name": "Pal\ufffda",
+    "locode": "VEPLA",
+    "longitude": -62.666666666666664,
+    "latitude": 8.35
+  },
+  {
+    "name": "Christiansted, Saint Croix",
+    "locode": "VICTD",
+    "longitude": -64.75,
+    "latitude": 17.75
+  },
+  {
+    "name": "Chu Lai",
+    "locode": "VNC8Q",
+    "longitude": 108.7,
+    "latitude": 15.4
+  },
+  {
+    "name": "Da Nang",
+    "locode": "VNDAD",
+    "longitude": 108.21666666666667,
+    "latitude": 16.066666666666666
+  },
+  {
+    "name": "Ho Chi Minh City",
+    "locode": "VNSGN",
+    "longitude": 106.66666666666667,
+    "latitude": 10.766666666666667
+  },
+  {
+    "name": "Nghi Son",
+    "locode": "VNNGH",
+    "longitude": 105.83333333333333,
+    "latitude": 19.333333333333332
+  },
+  {
+    "name": "Qui Nhon",
+    "locode": "VNUIH",
+    "longitude": 109.21666666666667,
+    "latitude": 13.766666666666667
+  },
+  {
+    "name": "Vung Tau",
+    "locode": "VNVUT",
+    "longitude": 107.06666666666666,
+    "latitude": 10.35
+  },
+  {
+    "name": "Vele Futuna I. Apt",
+    "locode": "WFFUT",
+    "longitude": -178.08333333333334,
+    "latitude": -14.316666666666666
+  },
+  {
+    "name": "Longoni",
+    "locode": "YTLON",
+    "longitude": 45.166666666666664,
+    "latitude": -12.716666666666667
+  },
+  {
+    "name": "Cape Town",
+    "locode": "ZACPT",
+    "longitude": 18.416666666666668,
+    "latitude": -33.916666666666664
+  },
+  {
+    "name": "Coega",
+    "locode": "ZAZBA",
+    "longitude": 25.666666666666668,
+    "latitude": -33.766666666666666
+  },
+  {
+    "name": "Durban",
+    "locode": "ZADUR",
+    "longitude": 31.016666666666666,
+    "latitude": -29.85
+  },
+  {
+    "name": "Ajman",
+    "locode": "AEAJM",
+    "longitude": 55.47878,
+    "latitude": 25.40177
+  },
+  {
+    "name": "Jebel Ali",
+    "locode": "AEJEA",
+    "longitude": 55.10811,
+    "latitude": 25.00255
+  },
+  {
+    "name": "Anguilla",
+    "locode": "AIAXA",
+    "longitude": -63.09375,
+    "latitude": 18.17648
+  },
+  {
+    "name": "Durr\ufffds",
+    "locode": "ALDRZ",
+    "longitude": 19.45469,
+    "latitude": 41.32355
+  },
+  {
+    "name": "Durr\ufffds",
+    "locode": "ALDRZ",
+    "longitude": 19.45469,
+    "latitude": 41.32355
+  },
+  {
+    "name": "Cabinda",
+    "locode": "AOCAB",
+    "longitude": 12.2,
+    "latitude": -5.55
+  },
+  {
+    "name": "Lobito",
+    "locode": "AOLOB",
+    "longitude": 13.53601,
+    "latitude": -12.3644
+  },
+  {
+    "name": "Luanda",
+    "locode": "AOLAD",
+    "longitude": 13.23432,
+    "latitude": -8.83682
+  },
+  {
+    "name": "Malongo",
+    "locode": "AOMAL",
+    "longitude": 12.19802179783948,
+    "latitude": -5.396406481852449
+  },
+  {
+    "name": "Namibe",
+    "locode": "AOMSZ",
+    "longitude": 12.15222,
+    "latitude": -15.19611
+  },
+  {
+    "name": "Soyo",
+    "locode": "AOSZA",
+    "longitude": 12.36894,
+    "latitude": -6.1349
+  },
+  {
+    "name": "Bell Bay",
+    "locode": "AUBEL",
+    "longitude": 146.87,
+    "latitude": -41.13
+  },
+  {
+    "name": "Burnie",
+    "locode": "AUBWT",
+    "longitude": 145.90375,
+    "latitude": -41.05584
+  },
+  {
+    "name": "Cairns",
+    "locode": "AUCNS",
+    "longitude": 145.76613,
+    "latitude": -16.92366
+  },
+  {
+    "name": "Dampier",
+    "locode": "AUDAM",
+    "longitude": 116.71256,
+    "latitude": -20.66275
+  },
+  {
+    "name": "Devonport",
+    "locode": "AUDPO",
+    "longitude": 146.35152,
+    "latitude": -41.17695
+  },
+  {
+    "name": "Fremantle",
+    "locode": "AUFRE",
+    "longitude": 115.74557,
+    "latitude": -32.05632
+  },
+  {
+    "name": "Geelong",
+    "locode": "AUGEX",
+    "longitude": 144.36069,
+    "latitude": -38.14711
+  },
+  {
+    "name": "Newcastle",
+    "locode": "AUNTL",
+    "longitude": 151.7801,
+    "latitude": -32.92953
+  },
+  {
+    "name": "Port Botany",
+    "locode": "AUPBT",
+    "longitude": 151.22277,
+    "latitude": -33.97447
+  },
+  {
+    "name": "Port Kembla",
+    "locode": "AUPKL",
+    "longitude": 150.9012,
+    "latitude": -34.4818
+  },
+  {
+    "name": "Townsville",
+    "locode": "AUTSV",
+    "longitude": 146.80569,
+    "latitude": -19.26639
+  },
+  {
+    "name": "Weipa",
+    "locode": "AUWEI",
+    "longitude": 141.87883,
+    "latitude": -12.62346
+  },
+  {
+    "name": "Oranjestad",
+    "locode": "AWORJ",
+    "longitude": -70.02703,
+    "latitude": 12.52398
+  },
+  {
+    "name": "Bridgetown",
+    "locode": "BBBGI",
+    "longitude": -59.62021,
+    "latitude": 13.10732
+  },
+  {
+    "name": "Mongla",
+    "locode": "BDMGL",
+    "longitude": 89.61095,
+    "latitude": 22.47223
+  },
+  {
+    "name": "Burgas",
+    "locode": "BGBOJ",
+    "longitude": 27.46781,
+    "latitude": 42.50606
+  },
+  {
+    "name": "Varna",
+    "locode": "BGVAR",
+    "longitude": 27.91667,
+    "latitude": 43.21667
+  },
+  {
+    "name": "Cotonou",
+    "locode": "BJCOO",
+    "longitude": 2.41833,
+    "latitude": 6.36536
+  },
+  {
+    "name": "Hamilton",
+    "locode": "BMBDA",
+    "longitude": -64.78303,
+    "latitude": 32.2949
+  },
+  {
+    "name": "Fortaleza",
+    "locode": "BRFOR",
+    "longitude": -38.54306,
+    "latitude": -3.71722
+  },
+  {
+    "name": "Ilheus",
+    "locode": "BRIOS",
+    "longitude": -39.03949,
+    "latitude": -14.79364
+  },
+  {
+    "name": "Imbituba",
+    "locode": "BRIBB",
+    "longitude": -48.67028,
+    "latitude": -28.24
+  },
+  {
+    "name": "Itajai",
+    "locode": "BRITJ",
+    "longitude": -48.66194,
+    "latitude": -26.90778
+  },
+  {
+    "name": "Manaus",
+    "locode": "BRMAO",
+    "longitude": -60.025,
+    "latitude": -3.10194
+  },
+  {
+    "name": "Natal",
+    "locode": "BRNAT",
+    "longitude": -35.20944,
+    "latitude": -5.795
+  },
+  {
+    "name": "Rio Grande",
+    "locode": "BRRIG",
+    "longitude": -43.18223,
+    "latitude": -22.90642
+  },
+  {
+    "name": "Salvador",
+    "locode": "BRSSA",
+    "longitude": -38.51083,
+    "latitude": -12.97111
+  },
+  {
+    "name": "Suape",
+    "locode": "BRSUA",
+    "longitude": -38.62083,
+    "latitude": -12.74083
+  },
+  {
+    "name": "Belize City",
+    "locode": "BZBZE",
+    "longitude": -88.19756,
+    "latitude": 17.49952
+  },
+  {
+    "name": "Halifax",
+    "locode": "CAHAL",
+    "longitude": -63.57291,
+    "latitude": 44.6464
+  },
+  {
+    "name": "Montreal",
+    "locode": "CAMTR",
+    "longitude": -73.58781,
+    "latitude": 45.50884
+  },
+  {
+    "name": "New Westminster",
+    "locode": "CANWE",
+    "longitude": -122.91092,
+    "latitude": 49.20678
+  },
+  {
+    "name": "Prince Rupert",
+    "locode": "CAPRR",
+    "longitude": -130.32098,
+    "latitude": 54.31507
+  },
+  {
+    "name": "Squamish",
+    "locode": "CASQA",
+    "longitude": -122.95396,
+    "latitude": 50.11817
+  },
+  {
+    "name": "Toronto",
+    "locode": "CATOR",
+    "longitude": -79.4163,
+    "latitude": 43.70011
+  },
+  {
+    "name": "Vancouver",
+    "locode": "CAVAN",
+    "longitude": -123.11934,
+    "latitude": 49.24966
+  },
+  {
+    "name": "Aitutaki",
+    "locode": "CKAIT",
+    "longitude": -159.79293,
+    "latitude": -18.85195
+  },
+  {
+    "name": "Rarotonga",
+    "locode": "CKRAR",
+    "longitude": -159.77545,
+    "latitude": -21.2075
+  },
+  {
+    "name": "Douala",
+    "locode": "CMDLA",
+    "longitude": 9.70428,
+    "latitude": 4.04827
+  },
+  {
+    "name": "Kribi",
+    "locode": "CMKBI",
+    "longitude": 9.90765,
+    "latitude": 2.93725
+  },
+  {
+    "name": "Barranquilla",
+    "locode": "COBAQ",
+    "longitude": -74.78132,
+    "latitude": 10.96854
+  },
+  {
+    "name": "Buenaventura",
+    "locode": "COBUN",
+    "longitude": -77.03116,
+    "latitude": 3.8801
+  },
+  {
+    "name": "Cartagena",
+    "locode": "COCTG",
+    "longitude": -75.51444,
+    "latitude": 10.39972
+  },
+  {
+    "name": "Santa Marta",
+    "locode": "COSMR",
+    "longitude": -74.19904,
+    "latitude": 11.24079
+  },
+  {
+    "name": "Moa",
+    "locode": "CUMOA",
+    "longitude": -74.95075,
+    "latitude": 20.65776
+  },
+  {
+    "name": "Santiago de Cuba",
+    "locode": "CUSCU",
+    "longitude": -75.82667,
+    "latitude": 20.02083
+  },
+  {
+    "name": "Palmeira",
+    "locode": "CVPAL",
+    "longitude": -22.98348,
+    "latitude": 16.75754
+  },
+  {
+    "name": "Praia",
+    "locode": "CVRAI",
+    "longitude": -23.51254,
+    "latitude": 14.93152
+  },
+  {
+    "name": "Sal Rei",
+    "locode": "CVSAR",
+    "longitude": -22.91722,
+    "latitude": 16.17611
+  },
+  {
+    "name": "Bremen",
+    "locode": "DEBRE",
+    "longitude": 8.80717,
+    "latitude": 53.07582
+  },
+  {
+    "name": "Bremerhaven",
+    "locode": "DEBRV",
+    "longitude": 8.59298,
+    "latitude": 53.53615
+  },
+  {
+    "name": "Hamburg",
+    "locode": "DEHAM",
+    "longitude": 9.99302,
+    "latitude": 53.55073
+  },
+  {
+    "name": "L\ufffdbeck",
+    "locode": "DELBC",
+    "longitude": 10.68729,
+    "latitude": 53.86893
+  },
+  {
+    "name": "Travem\ufffdnde",
+    "locode": "DETRV",
+    "longitude": 10.8709,
+    "latitude": 53.96304
+  },
+  {
+    "name": "Djibouti",
+    "locode": "DJJIB",
+    "longitude": 43.14503,
+    "latitude": 11.58901
+  },
+  {
+    "name": "Aalborg",
+    "locode": "DKAAL",
+    "longitude": 9.9187,
+    "latitude": 57.048
+  },
+  {
+    "name": "Esbjerg",
+    "locode": "DKEBJ",
+    "longitude": 8.45187,
+    "latitude": 55.47028
+  },
+  {
+    "name": "Fredericia",
+    "locode": "DKFRC",
+    "longitude": 9.75257,
+    "latitude": 55.56568
+  },
+  {
+    "name": "Grenaa",
+    "locode": "DKGRE",
+    "longitude": 10.87825,
+    "latitude": 56.41578
+  },
+  {
+    "name": "Hundested",
+    "locode": "DKHUN",
+    "longitude": 11.85044,
+    "latitude": 55.96397
+  },
+  {
+    "name": "Skagen",
+    "locode": "DKSKA",
+    "longitude": 10.58394,
+    "latitude": 57.72093
+  },
+  {
+    "name": "Roseau",
+    "locode": "DMRSU",
+    "longitude": -61.38808,
+    "latitude": 15.30174
+  },
+  {
+    "name": "Boca Chica",
+    "locode": "DOBCC",
+    "longitude": -69.6,
+    "latitude": 18.45
+  },
+  {
+    "name": "Puerto Plata",
+    "locode": "DOPOP",
+    "longitude": -70.6884,
+    "latitude": 19.79344
+  },
+  {
+    "name": "Mostaganem",
+    "locode": "DZMOS",
+    "longitude": 0.08918,
+    "latitude": 35.93115
+  },
+  {
+    "name": "Oran",
+    "locode": "DZORN",
+    "longitude": -0.63588,
+    "latitude": 35.69906
+  },
+  {
+    "name": "El Dekheila",
+    "locode": "EGEDK",
+    "longitude": 29.82126,
+    "latitude": 31.13133
+  },
+  {
+    "name": "Port Said",
+    "locode": "EGPSD",
+    "longitude": 32.3019,
+    "latitude": 31.26531
+  },
+  {
+    "name": "Algeciras",
+    "locode": "ESALG",
+    "longitude": -5.45051,
+    "latitude": 36.13326
+  },
+  {
+    "name": "Alicante",
+    "locode": "ESALC",
+    "longitude": -0.48149,
+    "latitude": 38.34517
+  },
+  {
+    "name": "Barcelona",
+    "locode": "ESBCN",
+    "longitude": 2.15899,
+    "latitude": 41.38879
+  },
+  {
+    "name": "Cadiz",
+    "locode": "ESCAD",
+    "longitude": -6.2891,
+    "latitude": 36.52672
+  },
+  {
+    "name": "Ceuta",
+    "locode": "ESCEU",
+    "longitude": -5.32042,
+    "latitude": 35.88919
+  },
+  {
+    "name": "Huelva",
+    "locode": "ESHUV",
+    "longitude": -6.94004,
+    "latitude": 37.26638
+  },
+  {
+    "name": "Puerto del Rosario-Fuerteventura",
+    "locode": "ESFUE",
+    "longitude": -13.86272,
+    "latitude": 28.50038
+  },
+  {
+    "name": "Santa Cruz de Tenerife",
+    "locode": "ESSCT",
+    "longitude": -16.25462,
+    "latitude": 28.46824
+  },
+  {
+    "name": "Santander",
+    "locode": "ESSDR",
+    "longitude": -3.80444,
+    "latitude": 43.46472
+  },
+  {
+    "name": "Sevilla",
+    "locode": "ESSVQ",
+    "longitude": -5.97317,
+    "latitude": 37.38283
+  },
+  {
+    "name": "Tarragona",
+    "locode": "ESTAR",
+    "longitude": 1.25,
+    "latitude": 41.11667
+  },
+  {
+    "name": "Valencia",
+    "locode": "ESVLC",
+    "longitude": -0.37739,
+    "latitude": 39.46975
+  },
+  {
+    "name": "Vigo",
+    "locode": "ESVGO",
+    "longitude": -8.72264,
+    "latitude": 42.23282
+  },
+  {
+    "name": "Hang\ufffd (Hanko)",
+    "locode": "FIHKO",
+    "longitude": 22.95,
+    "latitude": 59.83333
+  },
+  {
+    "name": "Hanko (Hang\ufffd)",
+    "locode": "FIHKO",
+    "longitude": 22.95,
+    "latitude": 59.83333
+  },
+  {
+    "name": "Helsingfors (Helsinki)",
+    "locode": "FIHEL",
+    "longitude": 24.93545,
+    "latitude": 60.16952
+  },
+  {
+    "name": "Helsinki (Helsingfors)",
+    "locode": "FIHEL",
+    "longitude": 24.93545,
+    "latitude": 60.16952
+  },
+  {
+    "name": "Valko (Valkom)",
+    "locode": "FIVKO",
+    "longitude": 26.24664,
+    "latitude": 60.41392
+  },
+  {
+    "name": "Valkom (Valko)",
+    "locode": "FIVKO",
+    "longitude": 26.24664,
+    "latitude": 60.41392
+  },
+  {
+    "name": "Libreville",
+    "locode": "GALBV",
+    "longitude": 9.45356,
+    "latitude": 0.39241
+  },
+  {
+    "name": "Port Gentil",
+    "locode": "GAPOG",
+    "longitude": 8.78151,
+    "latitude": -0.71933
+  },
+  {
+    "name": "Blyth",
+    "locode": "GBBLY",
+    "longitude": -1.50856,
+    "latitude": 55.12708
+  },
+  {
+    "name": "Bristol",
+    "locode": "GBBRS",
+    "longitude": -2.59665,
+    "latitude": 51.45523
+  },
+  {
+    "name": "Dover",
+    "locode": "GBDVR",
+    "longitude": 1.31257,
+    "latitude": 51.12598
+  },
+  {
+    "name": "Felixstowe",
+    "locode": "GBFXT",
+    "longitude": 1.3511,
+    "latitude": 51.96375
+  },
+  {
+    "name": "Fowey",
+    "locode": "GBFOY",
+    "longitude": -4.6386,
+    "latitude": 50.33634
+  },
+  {
+    "name": "Harwich",
+    "locode": "GBHRW",
+    "longitude": 1.28437,
+    "latitude": 51.94194
+  },
+  {
+    "name": "Poole",
+    "locode": "GBPOO",
+    "longitude": -1.98458,
+    "latitude": 50.71429
+  },
+  {
+    "name": "Portsmouth",
+    "locode": "GBPME",
+    "longitude": -1.09125,
+    "latitude": 50.79899
+  },
+  {
+    "name": "Scrabster",
+    "locode": "GBSCR",
+    "longitude": -3.54627,
+    "latitude": 58.61277
+  },
+  {
+    "name": "Sheerness",
+    "locode": "GBSHS",
+    "longitude": 0.76252,
+    "latitude": 51.44042
+  },
+  {
+    "name": "Southampton",
+    "locode": "GBSOU",
+    "longitude": -1.40428,
+    "latitude": 50.90395
+  },
+  {
+    "name": "Tilbury",
+    "locode": "GBTIL",
+    "longitude": 0.35856,
+    "latitude": 51.46248
+  },
+  {
+    "name": "Saint George's",
+    "locode": "GDSTG",
+    "longitude": -61.75226,
+    "latitude": 12.05288
+  },
+  {
+    "name": "Batumi",
+    "locode": "GEBUS",
+    "longitude": 41.63392,
+    "latitude": 41.64228
+  },
+  {
+    "name": "Poti",
+    "locode": "GEPTI",
+    "longitude": 41.67384,
+    "latitude": 42.14272
+  },
+  {
+    "name": "Takoradi",
+    "locode": "GHTKD",
+    "longitude": -1.76029,
+    "latitude": 4.89816
+  },
+  {
+    "name": "Tema",
+    "locode": "GHTEM",
+    "longitude": -0.01657,
+    "latitude": 5.6698
+  },
+  {
+    "name": "Gibraltar",
+    "locode": "GIGIB",
+    "longitude": -5.35257,
+    "latitude": 36.14474
+  },
+  {
+    "name": "Sisimiut (Holsteinsborg)",
+    "locode": "GLJHS",
+    "longitude": -53.6735,
+    "latitude": 66.93946
+  },
+  {
+    "name": "Banjul",
+    "locode": "GMBJL",
+    "longitude": -16.57803,
+    "latitude": 13.45274
+  },
+  {
+    "name": "Conakry",
+    "locode": "GNCKY",
+    "longitude": -13.67729,
+    "latitude": 9.53795
+  },
+  {
+    "name": "Bata",
+    "locode": "GQBSG",
+    "longitude": 9.76582,
+    "latitude": 1.86391
+  },
+  {
+    "name": "Malabo",
+    "locode": "GQSSG",
+    "longitude": 8.78166,
+    "latitude": 3.75578
+  },
+  {
+    "name": "Puerto Barrios",
+    "locode": "GTPBR",
+    "longitude": -88.59444,
+    "latitude": 15.72778
+  },
+  {
+    "name": "Georgetown",
+    "locode": "GYGEO",
+    "longitude": -58.15527,
+    "latitude": 6.80448
+  },
+  {
+    "name": "Hong Kong",
+    "locode": "HKHKG",
+    "longitude": 114.17469,
+    "latitude": 22.27832
+  },
+  {
+    "name": "Puerto Castilla",
+    "locode": "HNPCA",
+    "longitude": -85.96667,
+    "latitude": 16.01667
+  },
+  {
+    "name": "Puerto Cort\ufffds",
+    "locode": "HNPCR",
+    "longitude": -87.92968,
+    "latitude": 15.82562
+  },
+  {
+    "name": "San Lorenzo",
+    "locode": "HNSLO",
+    "longitude": -87.44722,
+    "latitude": 13.42417
+  },
+  {
+    "name": "Port-au-Prince",
+    "locode": "HTPAP",
+    "longitude": -72.33881,
+    "latitude": 18.54349
+  },
+  {
+    "name": "Banjarmasin",
+    "locode": "IDBDJ",
+    "longitude": 114.59075,
+    "latitude": -3.31987
+  },
+  {
+    "name": "Belawan, Sumatra",
+    "locode": "IDBLW",
+    "longitude": 98.6832,
+    "latitude": 3.7755
+  },
+  {
+    "name": "Bitung, Sulawesi",
+    "locode": "IDBIT",
+    "longitude": 125.12824,
+    "latitude": 1.44059
+  },
+  {
+    "name": "Gorontalo, Sulawesi",
+    "locode": "IDGTO",
+    "longitude": 123.3908,
+    "latitude": -0.8985
+  },
+  {
+    "name": "Kendari, Sulawesi",
+    "locode": "IDKDI",
+    "longitude": 122.51507,
+    "latitude": -3.9778
+  },
+  {
+    "name": "Luwuk",
+    "locode": "IDLUW",
+    "longitude": 122.7875,
+    "latitude": -0.9516
+  },
+  {
+    "name": "Medan, Sumatra",
+    "locode": "IDMES",
+    "longitude": 98.66667,
+    "latitude": 3.58333
+  },
+  {
+    "name": "Palembang, Sumatra",
+    "locode": "IDPLM",
+    "longitude": 104.7458,
+    "latitude": -2.91673
+  },
+  {
+    "name": "Panjang",
+    "locode": "IDPNJ",
+    "longitude": 100.6199,
+    "latitude": 0.3087
+  },
+  {
+    "name": "Pontianak, Kalimantan",
+    "locode": "IDPNK",
+    "longitude": 109.325,
+    "latitude": -0.03194
+  },
+  {
+    "name": "Samarinda, Kalimantan",
+    "locode": "IDSRI",
+    "longitude": 117.14583,
+    "latitude": -0.49167
+  },
+  {
+    "name": "Sorong",
+    "locode": "IDSOQ",
+    "longitude": 131.26104,
+    "latitude": -0.87956
+  },
+  {
+    "name": "Tarakan, Kalimantan",
+    "locode": "IDTRK",
+    "longitude": 117.59152,
+    "latitude": 3.31332
+  },
+  {
+    "name": "Tolitoli",
+    "locode": "IDTLI",
+    "longitude": 121.1679,
+    "latitude": 1.2718
+  },
+  {
+    "name": "Cork",
+    "locode": "IEORK",
+    "longitude": -8.47061,
+    "latitude": 51.89797
+  },
+  {
+    "name": "Dublin",
+    "locode": "IEDUB",
+    "longitude": -6.24889,
+    "latitude": 53.33306
+  },
+  {
+    "name": "Ashdod",
+    "locode": "ILASH",
+    "longitude": 34.64966,
+    "latitude": 31.79213
+  },
+  {
+    "name": "Ennore",
+    "locode": "INENR",
+    "longitude": 80.32835,
+    "latitude": 13.24751
+  },
+  {
+    "name": "Haldia",
+    "locode": "INHAL",
+    "longitude": 88.10975,
+    "latitude": 22.06046
+  },
+  {
+    "name": "Krishnapatnam",
+    "locode": "INKRI",
+    "longitude": 80.12388,
+    "latitude": 14.28874
+  },
+  {
+    "name": "Mangalore",
+    "locode": "INIXE",
+    "longitude": 74.85603,
+    "latitude": 12.91723
+  },
+  {
+    "name": "Mundra",
+    "locode": "INMUN",
+    "longitude": 69.7219,
+    "latitude": 22.83918
+  },
+  {
+    "name": "Port Blair",
+    "locode": "INIXZ",
+    "longitude": 92.74635,
+    "latitude": 11.66613
+  },
+  {
+    "name": "Abu Al Fulus",
+    "locode": "IQALF",
+    "longitude": 48.04246,
+    "latitude": 30.44783
+  },
+  {
+    "name": "Basra",
+    "locode": "IQBSR",
+    "longitude": 47.7804,
+    "latitude": 30.50852
+  },
+  {
+    "name": "Grundarfj\ufffdrdur",
+    "locode": "ISGRF",
+    "longitude": -23.26313,
+    "latitude": 64.92427
+  },
+  {
+    "name": "Reydarfj\ufffdrdur",
+    "locode": "ISRFJ",
+    "longitude": -14.21832,
+    "latitude": 65.03164
+  },
+  {
+    "name": "Marina di Carrara",
+    "locode": "ITMDC",
+    "longitude": 10.04142,
+    "latitude": 44.03837
+  },
+  {
+    "name": "Monfalcone",
+    "locode": "ITMNF",
+    "longitude": 13.53292,
+    "latitude": 45.80463
+  },
+  {
+    "name": "Pozzuoli",
+    "locode": "ITPOZ",
+    "longitude": 14.0952,
+    "latitude": 40.84394
+  },
+  {
+    "name": "Ravenna",
+    "locode": "ITRAN",
+    "longitude": 12.20121,
+    "latitude": 44.41344
+  },
+  {
+    "name": "Salerno",
+    "locode": "ITSAL",
+    "longitude": 14.79328,
+    "latitude": 40.67545
+  },
+  {
+    "name": "Trieste",
+    "locode": "ITTRS",
+    "longitude": 13.77678,
+    "latitude": 45.64953
+  },
+  {
+    "name": "Kingston",
+    "locode": "JMKIN",
+    "longitude": -76.79358,
+    "latitude": 17.99702
+  },
+  {
+    "name": "Montego Bay",
+    "locode": "JMMBJ",
+    "longitude": -77.91883,
+    "latitude": 18.47116
+  },
+  {
+    "name": "Aburatsu",
+    "locode": "JPABU",
+    "longitude": 144.26971,
+    "latitude": 44.02127
+  },
+  {
+    "name": "Akita",
+    "locode": "JPAXT",
+    "longitude": 140.11667,
+    "latitude": 39.71667
+  },
+  {
+    "name": "Chiba",
+    "locode": "JPCHB",
+    "longitude": 140.11667,
+    "latitude": 35.6
+  },
+  {
+    "name": "Fukuyama, Hiroshima",
+    "locode": "JPFKY",
+    "longitude": 133.36667,
+    "latitude": 34.48333
+  },
+  {
+    "name": "Hachinohe",
+    "locode": "JPHHE",
+    "longitude": 141.5,
+    "latitude": 40.5
+  },
+  {
+    "name": "Hiroshima",
+    "locode": "JPHIJ",
+    "longitude": 132.45,
+    "latitude": 34.4
+  },
+  {
+    "name": "Hitachi",
+    "locode": "JPHTC",
+    "longitude": 140.65,
+    "latitude": 36.6
+  },
+  {
+    "name": "Hososhima",
+    "locode": "JPHSM",
+    "longitude": 131.66667,
+    "latitude": 32.43333
+  },
+  {
+    "name": "Imabari",
+    "locode": "JPIMB",
+    "longitude": 133.00023,
+    "latitude": 34.07001
+  },
+  {
+    "name": "Imari",
+    "locode": "JPIMI",
+    "longitude": 129.87877,
+    "latitude": 33.27362
+  },
+  {
+    "name": "Iwakuni",
+    "locode": "JPIWK",
+    "longitude": 132.22,
+    "latitude": 34.16297
+  },
+  {
+    "name": "Kanazawa",
+    "locode": "JPKNZ",
+    "longitude": 136.61667,
+    "latitude": 36.6
+  },
+  {
+    "name": "Kashima, Ibaraki",
+    "locode": "JPKSM",
+    "longitude": 140.64474,
+    "latitude": 35.96536
+  },
+  {
+    "name": "Kawasaki",
+    "locode": "JPKWS",
+    "longitude": 139.71722,
+    "latitude": 35.52056
+  },
+  {
+    "name": "Kochi",
+    "locode": "JPKCZ",
+    "longitude": 133.53333,
+    "latitude": 33.55
+  },
+  {
+    "name": "Kumamoto",
+    "locode": "JPKMJ",
+    "longitude": 130.69181,
+    "latitude": 32.80589
+  },
+  {
+    "name": "Maizuru",
+    "locode": "JPMAI",
+    "longitude": 135.33333,
+    "latitude": 35.45
+  },
+  {
+    "name": "Matsuyama",
+    "locode": "JPMYJ",
+    "longitude": 132.76574,
+    "latitude": 33.83916
+  },
+  {
+    "name": "Miike, Fukuoka",
+    "locode": "JPMII",
+    "longitude": 130.47791,
+    "latitude": 33.05207
+  },
+  {
+    "name": "Mizushima",
+    "locode": "JPMIZ",
+    "longitude": 133.73896,
+    "latitude": 34.5298
+  },
+  {
+    "name": "Muroran",
+    "locode": "JPMUR",
+    "longitude": 140.98806,
+    "latitude": 42.31722
+  },
+  {
+    "name": "Nagasaki",
+    "locode": "JPNGS",
+    "longitude": 129.88333,
+    "latitude": 32.75
+  },
+  {
+    "name": "Nagoya, Aichi",
+    "locode": "JPNGO",
+    "longitude": 136.90641,
+    "latitude": 35.18147
+  },
+  {
+    "name": "Naha, Okinawa",
+    "locode": "JPNAH",
+    "longitude": 127.68333,
+    "latitude": 26.21667
+  },
+  {
+    "name": "Naoetsu",
+    "locode": "JPNAO",
+    "longitude": 138.25,
+    "latitude": 37.18333
+  },
+  {
+    "name": "Niigata",
+    "locode": "JPKIJ",
+    "longitude": 139.00589,
+    "latitude": 37.88637
+  },
+  {
+    "name": "Oita",
+    "locode": "JPOIT",
+    "longitude": 131.6,
+    "latitude": 33.23333
+  },
+  {
+    "name": "Omaezaki",
+    "locode": "JPOMZ",
+    "longitude": 138.21934,
+    "latitude": 34.59882
+  },
+  {
+    "name": "Onahama",
+    "locode": "JPONA",
+    "longitude": 140.9,
+    "latitude": 36.95
+  },
+  {
+    "name": "Otake",
+    "locode": "JPOTK",
+    "longitude": 132.22063,
+    "latitude": 34.20754
+  },
+  {
+    "name": "Otaru",
+    "locode": "JPOTR",
+    "longitude": 141.00222,
+    "latitude": 43.18944
+  },
+  {
+    "name": "Sakaiminato",
+    "locode": "JPSMN",
+    "longitude": 133.23094,
+    "latitude": 35.53774
+  },
+  {
+    "name": "Sakata",
+    "locode": "JPSKT",
+    "longitude": 139.855,
+    "latitude": 38.91667
+  },
+  {
+    "name": "Shibushi",
+    "locode": "JPSBS",
+    "longitude": 131.10114,
+    "latitude": 31.476
+  },
+  {
+    "name": "Shimizu",
+    "locode": "JPSMZ",
+    "longitude": 142.88472,
+    "latitude": 43.00611
+  },
+  {
+    "name": "Takamatsu",
+    "locode": "JPTAK",
+    "longitude": 134.05,
+    "latitude": 34.33333
+  },
+  {
+    "name": "Tokushima",
+    "locode": "JPTKS",
+    "longitude": 134.56667,
+    "latitude": 34.06667
+  },
+  {
+    "name": "Tokuyama",
+    "locode": "JPTKY",
+    "longitude": 131.81667,
+    "latitude": 34.05
+  },
+  {
+    "name": "Tomakomai",
+    "locode": "JPTMK",
+    "longitude": 141.60333,
+    "latitude": 42.63694
+  },
+  {
+    "name": "Toyohashi",
+    "locode": "JPTHS",
+    "longitude": 137.38333,
+    "latitude": 34.76667
+  },
+  {
+    "name": "Tsuruga",
+    "locode": "JPTRG",
+    "longitude": 136.0558,
+    "latitude": 35.64547
+  },
+  {
+    "name": "Ube",
+    "locode": "JPUBJ",
+    "longitude": 131.25111,
+    "latitude": 33.94306
+  },
+  {
+    "name": "Wakayama",
+    "locode": "JPWAK",
+    "longitude": 135.16667,
+    "latitude": 34.23333
+  },
+  {
+    "name": "Yatsushiro",
+    "locode": "JPYAT",
+    "longitude": 130.59952,
+    "latitude": 32.50439
+  },
+  {
+    "name": "Yokkaichi",
+    "locode": "JPYKK",
+    "longitude": 136.61667,
+    "latitude": 34.96667
+  },
+  {
+    "name": "Mombasa",
+    "locode": "KEMBA",
+    "longitude": 39.66359,
+    "latitude": -4.05466
+  },
+  {
+    "name": "Tarawa",
+    "locode": "KITRW",
+    "longitude": 172.97696,
+    "latitude": 1.3278
+  },
+  {
+    "name": "Moroni",
+    "locode": "KMYVA",
+    "longitude": 43.25506,
+    "latitude": -11.70216
+  },
+  {
+    "name": "Tripoli",
+    "locode": "LBKYE",
+    "longitude": 35.84415,
+    "latitude": 34.43352
+  },
+  {
+    "name": "Klaipeda",
+    "locode": "LTKLJ",
+    "longitude": 21.13912,
+    "latitude": 55.7068
+  },
+  {
+    "name": "Riga",
+    "locode": "LVRIX",
+    "longitude": 24.10589,
+    "latitude": 56.946
+  },
+  {
+    "name": "Bingazi (Benghazi)",
+    "locode": "LYBEN",
+    "longitude": 20.06859,
+    "latitude": 32.11486
+  },
+  {
+    "name": "Misurata",
+    "locode": "LYMRA",
+    "longitude": 15.09254,
+    "latitude": 32.37535
+  },
+  {
+    "name": "Tripoli",
+    "locode": "LYTIP",
+    "longitude": 13.18733,
+    "latitude": 32.88743
+  },
+  {
+    "name": "Agadir",
+    "locode": "MAAGA",
+    "longitude": -9.59815,
+    "latitude": 30.42018
+  },
+  {
+    "name": "Nador",
+    "locode": "MANDR",
+    "longitude": -2.93352,
+    "latitude": 35.16813
+  },
+  {
+    "name": "Tanger Med",
+    "locode": "MAPTM",
+    "longitude": -5.56323,
+    "latitude": 35.82674
+  },
+  {
+    "name": "Antsiranana",
+    "locode": "MGDIE",
+    "longitude": 49.29188,
+    "latitude": -12.31732
+  },
+  {
+    "name": "Majunga (Mahajanga)",
+    "locode": "MGMJN",
+    "longitude": 46.31667,
+    "latitude": -15.71667
+  },
+  {
+    "name": "Tamatave (Toamasina)",
+    "locode": "MGTMM",
+    "longitude": 49.40234,
+    "latitude": -18.1492
+  },
+  {
+    "name": "Tulear (Toliara)",
+    "locode": "MGTLE",
+    "longitude": 43.66667,
+    "latitude": -23.35
+  },
+  {
+    "name": "Kwajalein",
+    "locode": "MHKWA",
+    "longitude": 167.73919,
+    "latitude": 8.77479
+  },
+  {
+    "name": "Yangon",
+    "locode": "MMRGN",
+    "longitude": 96.15611,
+    "latitude": 16.80528
+  },
+  {
+    "name": "Yangon",
+    "locode": "MMRGN",
+    "longitude": 96.15611,
+    "latitude": 16.80528
+  },
+  {
+    "name": "Fort-de-France",
+    "locode": "MQFDF",
+    "longitude": -61.07418,
+    "latitude": 14.60365
+  },
+  {
+    "name": "Nouadhibou",
+    "locode": "MRNDB",
+    "longitude": -17.03842,
+    "latitude": 20.94188
+  },
+  {
+    "name": "Nouakchott",
+    "locode": "MRNKC",
+    "longitude": -15.9785,
+    "latitude": 18.08581
+  },
+  {
+    "name": "Plymouth",
+    "locode": "MSPLY",
+    "longitude": -62.21292,
+    "latitude": 16.70555
+  },
+  {
+    "name": "Port Louis",
+    "locode": "MUPLU",
+    "longitude": 57.49889,
+    "latitude": -20.16194
+  },
+  {
+    "name": "Bintulu, Sarawak",
+    "locode": "MYBTU",
+    "longitude": 113.03333,
+    "latitude": 3.16667
+  },
+  {
+    "name": "Kota Kinabalu, Sabah",
+    "locode": "MYBKI",
+    "longitude": 116.0724,
+    "latitude": 5.9749
+  },
+  {
+    "name": "Kuching, Sarawak",
+    "locode": "MYKCH",
+    "longitude": 110.33333,
+    "latitude": 1.55
+  },
+  {
+    "name": "Labuan, Sabah",
+    "locode": "MYLBU",
+    "longitude": 115.26924,
+    "latitude": 5.28883
+  },
+  {
+    "name": "Malacca",
+    "locode": "MYMKZ",
+    "longitude": 102.2405,
+    "latitude": 2.196
+  },
+  {
+    "name": "Pasir Gudang, Johor",
+    "locode": "MYPGU",
+    "longitude": 103.878,
+    "latitude": 1.4726
+  },
+  {
+    "name": "Sandakan, Sabah",
+    "locode": "MYSDK",
+    "longitude": 118.1179,
+    "latitude": 5.8402
+  },
+  {
+    "name": "Sibu, Sarawak",
+    "locode": "MYSBW",
+    "longitude": 111.81667,
+    "latitude": 2.3
+  },
+  {
+    "name": "Tawau, Sabah",
+    "locode": "MYTWU",
+    "longitude": 117.89115,
+    "latitude": 4.24482
+  },
+  {
+    "name": "Beira",
+    "locode": "MZBEW",
+    "longitude": 34.83889,
+    "latitude": -19.84361
+  },
+  {
+    "name": "Maputo",
+    "locode": "MZMPM",
+    "longitude": 32.58322,
+    "latitude": -25.96553
+  },
+  {
+    "name": "Nacala",
+    "locode": "MZMNC",
+    "longitude": 40.68538,
+    "latitude": -14.56257
+  },
+  {
+    "name": "Quelimane",
+    "locode": "MZUEL",
+    "longitude": 36.88833,
+    "latitude": -17.87861
+  },
+  {
+    "name": "Walvis Bay",
+    "locode": "NAWVB",
+    "longitude": 14.50528,
+    "latitude": -22.9575
+  },
+  {
+    "name": "Apapa",
+    "locode": "NGAPP",
+    "longitude": 3.35901,
+    "latitude": 6.4488
+  },
+  {
+    "name": "Calabar",
+    "locode": "NGCBQ",
+    "longitude": 8.32695,
+    "latitude": 4.95893
+  },
+  {
+    "name": "Lagos",
+    "locode": "NGLOS",
+    "longitude": 3.39467,
+    "latitude": 6.45407
+  },
+  {
+    "name": "Port Harcourt",
+    "locode": "NGPHC",
+    "longitude": 7.0134,
+    "latitude": 4.77742
+  },
+  {
+    "name": "Corinto",
+    "locode": "NICIO",
+    "longitude": -87.17304,
+    "latitude": 12.4825
+  },
+  {
+    "name": "Gjemnes",
+    "locode": "NOGJM",
+    "longitude": 8.08604,
+    "latitude": 62.89225
+  },
+  {
+    "name": "Salalah",
+    "locode": "OMSLL",
+    "longitude": 54.09237,
+    "latitude": 17.01505
+  },
+  {
+    "name": "Sohar",
+    "locode": "OMSOH",
+    "longitude": 56.70937,
+    "latitude": 24.34745
+  },
+  {
+    "name": "Almirante",
+    "locode": "PAPAM",
+    "longitude": -82.4018,
+    "latitude": 9.30091
+  },
+  {
+    "name": "Balboa",
+    "locode": "PABLB",
+    "longitude": -79.56672,
+    "latitude": 8.94814
+  },
+  {
+    "name": "Coco Solo",
+    "locode": "PACSO",
+    "longitude": -79.88168,
+    "latitude": 9.37091
+  },
+  {
+    "name": "Manzanillo",
+    "locode": "PAMIT",
+    "longitude": -81.16667,
+    "latitude": 7.53667
+  },
+  {
+    "name": "Callao",
+    "locode": "PECLL",
+    "longitude": -77.11814,
+    "latitude": -12.05659
+  },
+  {
+    "name": "Ilo",
+    "locode": "PEILQ",
+    "longitude": -71.34108,
+    "latitude": -17.63185
+  },
+  {
+    "name": "Iquitos",
+    "locode": "PEIQT",
+    "longitude": -73.25383,
+    "latitude": -3.74912
+  },
+  {
+    "name": "Matarani",
+    "locode": "PEMRI",
+    "longitude": -72.10563,
+    "latitude": -16.99639
+  },
+  {
+    "name": "Paita",
+    "locode": "PEPAI",
+    "longitude": -81.11444,
+    "latitude": -5.08917
+  },
+  {
+    "name": "Pisco",
+    "locode": "PEPIO",
+    "longitude": -76.20538,
+    "latitude": -13.71029
+  },
+  {
+    "name": "Alotau",
+    "locode": "PGGUR",
+    "longitude": 150.45742,
+    "latitude": -10.31509
+  },
+  {
+    "name": "Buka",
+    "locode": "PGBUA",
+    "longitude": 154.67098,
+    "latitude": -5.43261
+  },
+  {
+    "name": "Kimbe",
+    "locode": "PGKIM",
+    "longitude": 150.13766,
+    "latitude": -5.55085
+  },
+  {
+    "name": "Lae",
+    "locode": "PGLAE",
+    "longitude": 146.99611,
+    "latitude": -6.72333
+  },
+  {
+    "name": "Port Moresby",
+    "locode": "PGPOM",
+    "longitude": 147.15089,
+    "latitude": -9.47723
+  },
+  {
+    "name": "Rabaul",
+    "locode": "PGRAB",
+    "longitude": 152.16297,
+    "latitude": -4.20037
+  },
+  {
+    "name": "Wewak",
+    "locode": "PGWWK",
+    "longitude": 143.63229,
+    "latitude": -3.54964
+  },
+  {
+    "name": "Bacolod, Negros",
+    "locode": "PHBCD",
+    "longitude": 122.95,
+    "latitude": 10.66667
+  },
+  {
+    "name": "Cagayan de Oro, Mindanao",
+    "locode": "PHCGY",
+    "longitude": 124.64722,
+    "latitude": 8.48222
+  },
+  {
+    "name": "Cebu",
+    "locode": "PHCEB",
+    "longitude": 123.89071,
+    "latitude": 10.31672
+  },
+  {
+    "name": "Cotabato, Mindanao",
+    "locode": "PHCBO",
+    "longitude": 124.24639,
+    "latitude": 7.22361
+  },
+  {
+    "name": "Dumaguete",
+    "locode": "PHDGT",
+    "longitude": 123.30261,
+    "latitude": 9.30722
+  },
+  {
+    "name": "Manila",
+    "locode": "PHMNL",
+    "longitude": 120.9822,
+    "latitude": 14.6042
+  },
+  {
+    "name": "Ozamis, Mindanao",
+    "locode": "PHOZC",
+    "longitude": 123.8405,
+    "latitude": 8.1481
+  },
+  {
+    "name": "Polloc",
+    "locode": "PHPLC",
+    "longitude": 124.22088,
+    "latitude": 7.3534
+  },
+  {
+    "name": "Puerto Princesa, Palawan",
+    "locode": "PHPPS",
+    "longitude": 118.73528,
+    "latitude": 9.73917
+  },
+  {
+    "name": "Subic Bay",
+    "locode": "PHSFS",
+    "longitude": 120.27987,
+    "latitude": 14.78899
+  },
+  {
+    "name": "Tagbilaran, Bohol",
+    "locode": "PHTAG",
+    "longitude": 123.85219,
+    "latitude": 9.65556
+  },
+  {
+    "name": "Zamboanga",
+    "locode": "PHZAM",
+    "longitude": 122.07389,
+    "latitude": 6.91028
+  },
+  {
+    "name": "Gwadar",
+    "locode": "PKGWD",
+    "longitude": 62.32541,
+    "latitude": 25.12163
+  },
+  {
+    "name": "Karachi",
+    "locode": "PKKHI",
+    "longitude": 67.0104,
+    "latitude": 24.8608
+  },
+  {
+    "name": "Gdansk",
+    "locode": "PLGDN",
+    "longitude": 18.64912,
+    "latitude": 54.35227
+  },
+  {
+    "name": "Szczecin",
+    "locode": "PLSZZ",
+    "longitude": 14.55302,
+    "latitude": 53.42894
+  },
+  {
+    "name": "Koror",
+    "locode": "PWROR",
+    "longitude": 134.47326,
+    "latitude": 7.33978
+  },
+  {
+    "name": "Arkhangelsk",
+    "locode": "RUARH",
+    "longitude": 40.5433,
+    "latitude": 64.5401
+  },
+  {
+    "name": "Dudinka",
+    "locode": "RUDUD",
+    "longitude": 86.17778,
+    "latitude": 69.40583
+  },
+  {
+    "name": "Kaliningrad",
+    "locode": "RUKGD",
+    "longitude": 20.51095,
+    "latitude": 54.70649
+  },
+  {
+    "name": "Korsakov",
+    "locode": "RUKOR",
+    "longitude": 142.77722,
+    "latitude": 46.6342
+  },
+  {
+    "name": "Magadan",
+    "locode": "RUGDX",
+    "longitude": 150.80347,
+    "latitude": 59.5638
+  },
+  {
+    "name": "Petropavlovsk-Kamchatskiy",
+    "locode": "RUPKC",
+    "longitude": 158.65076,
+    "latitude": 53.04444
+  },
+  {
+    "name": "Vladivostok",
+    "locode": "RUVVO",
+    "longitude": 131.87353,
+    "latitude": 43.10562
+  },
+  {
+    "name": "Jubail",
+    "locode": "SAJUB",
+    "longitude": 49.62251,
+    "latitude": 27.0174
+  },
+  {
+    "name": "Port Victoria",
+    "locode": "SCPOV",
+    "longitude": 55.45501,
+    "latitude": -4.62001
+  },
+  {
+    "name": "Port Sudan",
+    "locode": "SDPZU",
+    "longitude": 37.21644,
+    "latitude": 19.61745
+  },
+  {
+    "name": "Helsingborg",
+    "locode": "SEHEL",
+    "longitude": 12.69437,
+    "latitude": 56.04673
+  },
+  {
+    "name": "Varberg",
+    "locode": "SEVAG",
+    "longitude": 12.25078,
+    "latitude": 57.10557
+  },
+  {
+    "name": "Singapore",
+    "locode": "SGSIN",
+    "longitude": 103.85007,
+    "latitude": 1.28967
+  },
+  {
+    "name": "Koper",
+    "locode": "SIKOP",
+    "longitude": 13.72944,
+    "latitude": 45.54694
+  },
+  {
+    "name": "Freetown",
+    "locode": "SLFNA",
+    "longitude": -13.2356,
+    "latitude": 8.48714
+  },
+  {
+    "name": "Dakar",
+    "locode": "SNDKR",
+    "longitude": -17.44406,
+    "latitude": 14.6937
+  },
+  {
+    "name": "Berbera",
+    "locode": "SOBBO",
+    "longitude": 45.01432,
+    "latitude": 10.43959
+  },
+  {
+    "name": "Kismayu",
+    "locode": "SOKMU",
+    "longitude": 42.54536,
+    "latitude": -0.35817
+  },
+  {
+    "name": "Mogadishu",
+    "locode": "SOMGQ",
+    "longitude": 45.34375,
+    "latitude": 2.03711
+  },
+  {
+    "name": "Paramaribo",
+    "locode": "SRPBM",
+    "longitude": -55.16682,
+    "latitude": 5.86638
+  },
+  {
+    "name": "Paramaribo",
+    "locode": "SRPBM",
+    "longitude": -55.16682,
+    "latitude": 5.86638
+  },
+  {
+    "name": "Acajutla",
+    "locode": "SVAQJ",
+    "longitude": -89.8275,
+    "latitude": 13.59278
+  },
+  {
+    "name": "San Salvador",
+    "locode": "SVSAL",
+    "longitude": -89.18718,
+    "latitude": 13.68935
+  },
+  {
+    "name": "Lome",
+    "locode": "TGLFW",
+    "longitude": 1.22154,
+    "latitude": 6.12874
+  },
+  {
+    "name": "Sriracha",
+    "locode": "THSRI",
+    "longitude": 100.93111,
+    "latitude": 13.17372
+  },
+  {
+    "name": "Bizerte",
+    "locode": "TNBIZ",
+    "longitude": 9.87391,
+    "latitude": 37.27442
+  },
+  {
+    "name": "Sfax",
+    "locode": "TNSFA",
+    "longitude": 10.76028,
+    "latitude": 34.74056
+  },
+  {
+    "name": "Sousse",
+    "locode": "TNSUS",
+    "longitude": 10.63699,
+    "latitude": 35.82539
+  },
+  {
+    "name": "Tunis",
+    "locode": "TNTUN",
+    "longitude": 10.16579,
+    "latitude": 36.81897
+  },
+  {
+    "name": "Aliaga",
+    "locode": "TRALI",
+    "longitude": 26.97203,
+    "latitude": 38.79975
+  },
+  {
+    "name": "Derince",
+    "locode": "TRDRC",
+    "longitude": 29.81472,
+    "latitude": 40.75694
+  },
+  {
+    "name": "Haydarpasa",
+    "locode": "TRHAY",
+    "longitude": 29.02459,
+    "latitude": 40.99596
+  },
+  {
+    "name": "Yarimca",
+    "locode": "TRYAR",
+    "longitude": 31.14194,
+    "latitude": 39.08361
+  },
+  {
+    "name": "Anchorage",
+    "locode": "USANC",
+    "longitude": -149.90028,
+    "latitude": 61.21806
+  },
+  {
+    "name": "Beaumont",
+    "locode": "USBPT",
+    "longitude": -94.10185,
+    "latitude": 30.08605
+  },
+  {
+    "name": "Boston",
+    "locode": "USBOS",
+    "longitude": -71.05977,
+    "latitude": 42.35843
+  },
+  {
+    "name": "Brunswick",
+    "locode": "USBCK",
+    "longitude": -74.45182,
+    "latitude": 40.48622
+  },
+  {
+    "name": "Camden",
+    "locode": "USCAT",
+    "longitude": -75.11962,
+    "latitude": 39.92595
+  },
+  {
+    "name": "Charleston",
+    "locode": "USCHS",
+    "longitude": -79.92442667527311,
+    "latitude": 32.78501734256295
+  },
+  {
+    "name": "Cleveland",
+    "locode": "USCAV",
+    "longitude": -81.69541,
+    "latitude": 41.4995
+  },
+  {
+    "name": "Corpus Christi",
+    "locode": "USCRP",
+    "longitude": -97.39638,
+    "latitude": 27.80058
+  },
+  {
+    "name": "Dutch Harbor",
+    "locode": "USDUT",
+    "longitude": -166.5422,
+    "latitude": 53.8898
+  },
+  {
+    "name": "Everett",
+    "locode": "USPAE",
+    "longitude": -122.20208,
+    "latitude": 47.97898
+  },
+  {
+    "name": "Freeport",
+    "locode": "USFEP",
+    "longitude": -70.10311,
+    "latitude": 43.85702
+  },
+  {
+    "name": "Galveston",
+    "locode": "USGLS",
+    "longitude": -94.7977,
+    "latitude": 29.30135
+  },
+  {
+    "name": "Gloucester City",
+    "locode": "USGLC",
+    "longitude": -70.66313,
+    "latitude": 42.61405
+  },
+  {
+    "name": "Jacksonville",
+    "locode": "USIJX",
+    "longitude": -81.65565,
+    "latitude": 30.33218
+  },
+  {
+    "name": "Kodiak",
+    "locode": "USADQ",
+    "longitude": -152.40533,
+    "latitude": 57.78852
+  },
+  {
+    "name": "Los Angeles",
+    "locode": "USLAX",
+    "longitude": -118.24368,
+    "latitude": 34.05223
+  },
+  {
+    "name": "Miami",
+    "locode": "USMIA",
+    "longitude": -80.19366,
+    "latitude": 25.77427
+  },
+  {
+    "name": "Mobile",
+    "locode": "USMOB",
+    "longitude": -88.04305,
+    "latitude": 30.69436
+  },
+  {
+    "name": "Morehead City",
+    "locode": "USMRH",
+    "longitude": -76.72604,
+    "latitude": 34.72294
+  },
+  {
+    "name": "New Orleans",
+    "locode": "USMSY",
+    "longitude": -90.07507,
+    "latitude": 29.95465
+  },
+  {
+    "name": "Panama City",
+    "locode": "USPFN",
+    "longitude": -85.65983,
+    "latitude": 30.15946
+  },
+  {
+    "name": "Portland",
+    "locode": "USPWM",
+    "longitude": -122.67621,
+    "latitude": 45.52345
+  },
+  {
+    "name": "Portland",
+    "locode": "USPDX",
+    "longitude": -122.67621,
+    "latitude": 45.52345
+  },
+  {
+    "name": "Savannah",
+    "locode": "USSAV",
+    "longitude": -81.09983,
+    "latitude": 32.08354
+  },
+  {
+    "name": "Seattle",
+    "locode": "USSEA",
+    "longitude": -122.33207,
+    "latitude": 47.60621
+  },
+  {
+    "name": "Tacoma",
+    "locode": "USTIW",
+    "longitude": -122.44429,
+    "latitude": 47.25288
+  },
+  {
+    "name": "Tampa",
+    "locode": "USTPA",
+    "longitude": -82.45843,
+    "latitude": 27.94752
+  },
+  {
+    "name": "Vancouver",
+    "locode": "USVAN",
+    "longitude": -122.66149,
+    "latitude": 45.63873
+  },
+  {
+    "name": "West Palm Beach",
+    "locode": "USPBI",
+    "longitude": -80.05337,
+    "latitude": 26.71534
+  },
+  {
+    "name": "Wilmington",
+    "locode": "USILG",
+    "longitude": -75.54659,
+    "latitude": 39.74595
+  },
+  {
+    "name": "Montevideo",
+    "locode": "UYMVD",
+    "longitude": -56.18816,
+    "latitude": -34.90328
+  },
+  {
+    "name": "Charlotte Amalie, Saint Thomas",
+    "locode": "VICHA",
+    "longitude": -64.9307,
+    "latitude": 18.3419
+  },
+  {
+    "name": "Haiphong",
+    "locode": "VNHPH",
+    "longitude": 106.68345,
+    "latitude": 20.86481
+  },
+  {
+    "name": "Port Vila",
+    "locode": "VUVLI",
+    "longitude": 168.31366,
+    "latitude": -17.73648
+  },
+  {
+    "name": "Santo",
+    "locode": "VUSAN",
+    "longitude": 167.16235,
+    "latitude": -15.51989
+  },
+  {
+    "name": "Apia",
+    "locode": "WSAPW",
+    "longitude": -171.76666,
+    "latitude": -13.83333
+  },
+  {
+    "name": "Aden",
+    "locode": "YEADE",
+    "longitude": 45.03667,
+    "latitude": 12.77944
+  },
+  {
+    "name": "Mukalla",
+    "locode": "YEMKX",
+    "longitude": 49.12424,
+    "latitude": 14.54248
+  },
+  {
+    "name": "East London",
+    "locode": "ZAELS",
+    "longitude": 27.91162,
+    "latitude": -33.01529
+  },
+  {
+    "name": "Port Elizabeth",
+    "locode": "ZAPLZ",
+    "longitude": 25.61494,
+    "latitude": -33.96109
+  },
+  {
+    "name": "Richards Bay",
+    "locode": "ZARCB",
+    "longitude": 32.03768,
+    "latitude": -28.78301
+  }
+]
