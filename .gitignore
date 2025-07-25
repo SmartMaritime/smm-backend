@@ -41,3 +41,9 @@ desktop.ini
 # Render / deployment
 *.tar.gz
 *.egg-info/
+
+
+
+.git_backup/
+.git_backup2/
+.git_backup_lab/
